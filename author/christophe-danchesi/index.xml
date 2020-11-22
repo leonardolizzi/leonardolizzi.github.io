@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christophe Danchesi | Leonardo Lizzi</title>
+    <link>/author/christophe-danchesi/</link>
+      <atom:link href="/author/christophe-danchesi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christophe Danchesi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Christophe Danchesi</title>
+      <link>/author/christophe-danchesi/</link>
+    </image>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miniature Multiband Inverted-F Antenna over an Electrically Small Ground Plane for Compact IoT Terminals</title>
+      <link>/publication/lizzi-miniature-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-miniature-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne intégrée reconfigurable robuste à l’influence de l’environnement</title>
+      <link>/publication/houret-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne Miniature Multi-bandes pour Terminaux IoT Compacts</title>
+      <link>/publication/lizzi-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable and Long-Range Wireless Sensor Node for Long Time Operation</title>
+      <link>/publication/islam-reconfigurable-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/islam-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

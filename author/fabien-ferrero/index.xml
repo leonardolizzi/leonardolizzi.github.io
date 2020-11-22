@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabien Ferrero | Leonardo Lizzi</title>
+    <link>/author/fabien-ferrero/</link>
+      <atom:link href="/author/fabien-ferrero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabien Ferrero</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Fabien Ferrero</title>
+      <link>/author/fabien-ferrero/</link>
+    </image>
+    
+    <item>
+      <title>An Optimization Driven Method for the Synthesis of Reconfigurable Parasitic Antenna Arrays</title>
+      <link>/publication/santamaria-optimization-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-optimization-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of Finger Effects on Coverage Efficiency for User Equipment Mm-Wave Antenna</title>
+      <link>/publication/nguyen-measurement-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-measurement-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source 4G Experimental Setup</title>
+      <link>/publication/boussad-open-source-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-open-source-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Compact Pattern Reconfigurable Antenna for UHF Internet of Things Applications</title>
+      <link>/publication/haydhah-compact-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-compact-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Evaluation of User&#39;s Finger Effects on a 5G Terminal Antenna Array at 26 GHz</title>
+      <link>/publication/nguyen-experimental-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-experimental-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-Port Antenna with Matching Network for Dual-band IoT Terminal</title>
+      <link>/publication/santamaria-2-port-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-2-port-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Reconfigurable Antenna Robust to Folding in Wearable Applications</title>
+      <link>/publication/santamaria-flexible-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-flexible-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waveguide Surface on Textile for Body Area Network</title>
+      <link>/publication/ferrero-waveguide-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-waveguide-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Optimisation antenne et circuit d&#39;adaptation pour terminaux mobiles de nouvelle génération</title>
+      <link>/publication/ferrero-co-optimisation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-co-optimisation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement d’une antenne miniature multiband reconfigurable pour des applications de localisation</title>
+      <link>/publication/khalifeh-developpement-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/khalifeh-developpement-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation d&#39;une antenne fente reconfigurable en diagramme basée sur des diodes PIN de faible capacité</title>
+      <link>/publication/santamaria-implementation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-implementation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based Combined Antenna and Matching Network Optimization for Mobile Terminals</title>
+      <link>/publication/nguyen-pso-based-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-pso-based-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Matching for Single Resonance Miniaturized Antenna for IoT applications</title>
+      <link>/publication/khai-nguyen-dual-matching-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khai-nguyen-dual-matching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiation Pattern Agile Antenna for Smart IoT Gateways</title>
+      <link>/publication/santamaria-radiation-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-radiation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling Element Strategy for Future Borderless Smartphone</title>
+      <link>/publication/ferrero-coupling-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-coupling-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Ground Plane Reduction in Antennas for Compact Terminals</title>
+      <link>/publication/lizzi-impact-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-impact-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable multi-band antenna for miniature tracking terminal</title>
+      <link>/publication/khalifeh-reconfigurable-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khalifeh-reconfigurable-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miniature Multiband Inverted-F Antenna over an Electrically Small Ground Plane for Compact IoT Terminals</title>
+      <link>/publication/lizzi-miniature-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-miniature-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pattern-Reconfigurable Slot Antenna for IoT Network Concentrators</title>
+      <link>/publication/trinh-pattern-reconfigurable-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximity Effect of Metallic Environments on Cylindrical Dielectric Resonator Antenna for Smart Metering Applications</title>
+      <link>/publication/allabouche-proximity-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-proximity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne flexible utilisant une technologie additive et du métal liquide</title>
+      <link>/publication/cosker-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne intégrée reconfigurable robuste à l’influence de l’environnement</title>
+      <link>/publication/houret-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne Miniature Multi-bandes pour Terminaux IoT Compacts</title>
+      <link>/publication/lizzi-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne à Résonateur Diélectrique pour réduire l’effet du corps humain dans un dispositif IoT miniature</title>
+      <link>/publication/allabouche-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable and Long-Range Wireless Sensor Node for Long Time Operation</title>
+      <link>/publication/islam-reconfigurable-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/islam-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Method for 3D Miniature Antenna Fabrication Based on Liquid Metal and 3D Printer</title>
+      <link>/publication/cosker-new-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-new-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern-Reconfigurable Antenna Suitable for Autonomous Wireless Nodes</title>
+      <link>/publication/trinh-pattern-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth enhancement of rectangular dielectric resonator antenna for UMTS application</title>
+      <link>/publication/allabouche-bandwidth-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-bandwidth-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne reconfigurable pour application Car-to-Car</title>
+      <link>/publication/trinh-antenne-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-antenne-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4 x 4 MIMO Multiband Antenna System for Mobile Handsets</title>
+      <link>/publication/trinh-4-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-4-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne multi-bandes multi-modes pour applications sur véhicules</title>
+      <link>/publication/lizzi-antenne-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;internet of things&#34; | Leonardo Lizzi</title>
+    <link>/tag/internet-of-things/</link>
+      <atom:link href="/tag/internet-of-things/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;internet of things&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;internet of things&#34;</title>
+      <link>/tag/internet-of-things/</link>
+    </image>
+    
+    <item>
+      <title>From Optimal to Industrial Antenna: The Designer Dilemma for Compact NB-IoT Terminal</title>
+      <link>/publication/ferrero-optimal-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-optimal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Matching for Single Resonance Miniaturized Antenna for IoT applications</title>
+      <link>/publication/khai-nguyen-dual-matching-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khai-nguyen-dual-matching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiation Pattern Agile Antenna for Smart IoT Gateways</title>
+      <link>/publication/santamaria-radiation-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-radiation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental analysis of the human body effect on miniature LPWAN antennas</title>
+      <link>/publication/berrada-experimental-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-experimental-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A digitally tuned reconfigurable patch antenna for IoT devices</title>
+      <link>/publication/asadallah-digitally-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/asadallah-digitally-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficient reconfigurable antenna for ultra-low power IoT devices</title>
+      <link>/publication/houret-energy-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-energy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-cost antenna technology for LPWAN IoT in rural applications</title>
+      <link>/publication/pham-low-cost-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pham-low-cost-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of antennas enabling miniature and energy efficient wireless IoT devices for smart cities</title>
+      <link>/publication/lizzi-design-2016-1/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of miniature antennas for IoT applications</title>
+      <link>/publication/lizzi-design-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental sensitivity of miniature antennas for IoT devices</title>
+      <link>/publication/ferrero-environmental-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-environmental-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasability of an Ultra narrow band antenna for the internet of things</title>
+      <link>/publication/ferrero-feasability-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-feasability-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of ultra-narrow band miniature antennas for internet-of-things applications</title>
+      <link>/publication/lizzi-use-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-use-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

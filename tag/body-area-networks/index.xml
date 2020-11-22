@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;body area networks&#34; | Leonardo Lizzi</title>
+    <link>/tag/body-area-networks/</link>
+      <atom:link href="/tag/body-area-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;body area networks&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;body area networks&#34;</title>
+      <link>/tag/body-area-networks/</link>
+    </image>
+    
+    <item>
+      <title>Experimental analysis of the human body effect on miniature LPWAN antennas</title>
+      <link>/publication/berrada-experimental-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-experimental-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wake-up receiver with ad-hoc antenna co-design for wearable applications</title>
+      <link>/publication/polonelli-wake-up-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/polonelli-wake-up-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and analysis of a monopole radiator for UWB Body Area Networks</title>
+      <link>/publication/lizzi-synthesis-2011-1/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

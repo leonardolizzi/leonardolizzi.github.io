@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;MIMO&#34; | Leonardo Lizzi</title>
+    <link>/tag/mimo/</link>
+      <atom:link href="/tag/mimo/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;MIMO&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;MIMO&#34;</title>
+      <link>/tag/mimo/</link>
+    </image>
+    
+    <item>
+      <title>Study of a Method for Increasing Isolation Between Closely Spaced Elements integrated in Multi-Standard Multi-Antenna Systems</title>
+      <link>/publication/sadaoui-study-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-study-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Multiband LTE MIMO Antenna System Integrated in its Real Environment</title>
+      <link>/publication/sadaoui-design-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-design-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of an open source software defined radio test bed</title>
+      <link>/publication/buey-validation-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-validation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORION: Orientation estimation using commodity Wi-Fi</title>
+      <link>/publication/mahfoudi-orion-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mahfoudi-orion-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO antenna performance assessment based on open source software defined radio</title>
+      <link>/publication/buey-mimo-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-mimo-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Miniature Position Tracker Using LoRa and GPS Technology</title>
+      <link>/publication/monin-enabling-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/monin-enabling-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of hand effect on a handheld terminal at 11 GHz</title>
+      <link>/publication/buey-investigation-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-investigation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation on UWB-MIMO Communication Systems Based on an Experimental Channel Characterization</title>
+      <link>/publication/migliore-investigation-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/migliore-investigation-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental channel characterization of a MIMO-UWB communication system</title>
+      <link>/publication/lizzi-experimental-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-experimental-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

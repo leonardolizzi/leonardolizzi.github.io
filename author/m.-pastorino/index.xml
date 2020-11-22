@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Pastorino | Leonardo Lizzi</title>
+    <link>/author/m.-pastorino/</link>
+      <atom:link href="/author/m.-pastorino/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Pastorino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Pastorino</title>
+      <link>/author/m.-pastorino/</link>
+    </image>
+    
+    <item>
+      <title>A Nested Multi-Scaling Inexact-Newton Iterative Approach for Microwave Imaging</title>
+      <link>/publication/oliveri-nested-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveri-nested-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Electromagnetic subsurface imaging by means of a multi-resolution classification approach</title>
+      <link>/publication/lizzi-3-d-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-3-d-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An iterative multi-scaling scheme for the electromagnetic imaging of separated scatterers by the Inexact-Newton method</title>
+      <link>/publication/bozza-iterative-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/bozza-iterative-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

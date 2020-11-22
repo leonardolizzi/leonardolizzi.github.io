@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Najiba El Amrani El Idrissi | Leonardo Lizzi</title>
+    <link>/author/najiba-el-amrani-el-idrissi/</link>
+      <atom:link href="/author/najiba-el-amrani-el-idrissi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Najiba El Amrani El Idrissi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Najiba El Amrani El Idrissi</title>
+      <link>/author/najiba-el-amrani-el-idrissi/</link>
+    </image>
+    
+    <item>
+      <title>Proximity Effect of Metallic Environments on Cylindrical Dielectric Resonator Antenna for Smart Metering Applications</title>
+      <link>/publication/allabouche-proximity-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-proximity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne à Résonateur Diélectrique pour réduire l’effet du corps humain dans un dispositif IoT miniature</title>
+      <link>/publication/allabouche-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth enhancement of rectangular dielectric resonator antenna for UMTS application</title>
+      <link>/publication/allabouche-bandwidth-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-bandwidth-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

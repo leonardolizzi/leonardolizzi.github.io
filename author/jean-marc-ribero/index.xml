@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Marc Ribero | Leonardo Lizzi</title>
+    <link>/author/jean-marc-ribero/</link>
+      <atom:link href="/author/jean-marc-ribero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-Marc Ribero</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jean-Marc Ribero</title>
+      <link>/author/jean-marc-ribero/</link>
+    </image>
+    
+    <item>
+      <title>Proximity Effect of Metallic Environments on Cylindrical Dielectric Resonator Antenna for Smart Metering Applications</title>
+      <link>/publication/allabouche-proximity-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-proximity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne flexible utilisant une technologie additive et du métal liquide</title>
+      <link>/publication/cosker-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne à Résonateur Diélectrique pour réduire l’effet du corps humain dans un dispositif IoT miniature</title>
+      <link>/publication/allabouche-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Method for 3D Miniature Antenna Fabrication Based on Liquid Metal and 3D Printer</title>
+      <link>/publication/cosker-new-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-new-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth enhancement of rectangular dielectric resonator antenna for UMTS application</title>
+      <link>/publication/allabouche-bandwidth-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-bandwidth-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne reconfigurable pour application Car-to-Car</title>
+      <link>/publication/trinh-antenne-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-antenne-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4 x 4 MIMO Multiband Antenna System for Mobile Handsets</title>
+      <link>/publication/trinh-4-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-4-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne multi-bandes multi-modes pour applications sur véhicules</title>
+      <link>/publication/lizzi-antenne-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

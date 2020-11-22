@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Huy Trinh | Leonardo Lizzi</title>
+    <link>/author/le-huy-trinh/</link>
+      <atom:link href="/author/le-huy-trinh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Le Huy Trinh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Le Huy Trinh</title>
+      <link>/author/le-huy-trinh/</link>
+    </image>
+    
+    <item>
+      <title>A Pattern-Reconfigurable Slot Antenna for IoT Network Concentrators</title>
+      <link>/publication/trinh-pattern-reconfigurable-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern-Reconfigurable Antenna Suitable for Autonomous Wireless Nodes</title>
+      <link>/publication/trinh-pattern-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4 x 4 MIMO Multiband Antenna System for Mobile Handsets</title>
+      <link>/publication/trinh-4-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-4-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

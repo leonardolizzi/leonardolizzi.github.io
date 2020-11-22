@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Rocca | Leonardo Lizzi</title>
+    <link>/author/p.-rocca/</link>
+      <atom:link href="/author/p.-rocca/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Rocca</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Rocca</title>
+      <link>/author/p.-rocca/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic classification for electromagnetic demining — Issues and advances towards real implementations</title>
+      <link>/publication/viani-probabilistic-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-probabilistic-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based early alert system for preventing wildlife-vehicle collisions in Alps regions</title>
+      <link>/publication/viani-wsn-based-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a wideband antenna array for microwave imaging applications</title>
+      <link>/publication/lizzi-synthesis-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of notched band UWB antennas with a hybrid PSO-spline technique</title>
+      <link>/publication/lizzi-synthesis-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based solutions for security and surveillance</title>
+      <link>/publication/viani-wsn-based-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of the Directions-of-Arrival of correlated signals by means of a SVM-based multi-resolution approach</title>
+      <link>/publication/lizzi-estimation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-estimation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional real-time localization of subsurface objects -  From theory to experimental validation</title>
+      <link>/publication/lizzi-three-dimensional-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-three-dimensional-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based time-domain antenna synthesis for enhanced UWB communication systems</title>
+      <link>/publication/lizzi-pso-based-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-based-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time indoor localization and tracking of passive targets by means of wireless sensor networks</title>
+      <link>/publication/viani-real-time-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-real-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-based approach for the synthesis of antennas for UWB communication systems</title>
+      <link>/publication/benedetti-time-based-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-time-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of smart antennas in Wireless Sensor Networks</title>
+      <link>/publication/benedetti-integration-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-integration-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking through RSSI measurements in wireless sensor networks</title>
+      <link>/publication/viani-object-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-object-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An innovative spline-based shaping approach for ultra-wideband antenna synthesis</title>
+      <link>/publication/lizzi-innovative-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-innovative-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

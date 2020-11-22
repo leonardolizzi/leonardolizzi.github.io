@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Ultra wideband antennas&#34; | Leonardo Lizzi</title>
+    <link>/tag/ultra-wideband-antennas/</link>
+      <atom:link href="/tag/ultra-wideband-antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Ultra wideband antennas&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Ultra wideband antennas&#34;</title>
+      <link>/tag/ultra-wideband-antennas/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis and analysis of a monopole radiator for UWB Body Area Networks</title>
+      <link>/publication/lizzi-synthesis-2011-1/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of spline-based geometries for the time-domain synthesis of UWB antennas</title>
+      <link>/publication/lizzi-exploitation-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printed UWB Antenna Operating Over Multiple Mobile Wireless Standards</title>
+      <link>/publication/lizzi-printed-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-printed-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of notched band UWB antennas with a hybrid PSO-spline technique</title>
+      <link>/publication/lizzi-synthesis-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel design methodology for integration of optimized ultra-wideband elements with aperiodic array topologies</title>
+      <link>/publication/lizzi-novel-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-novel-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time domain analysis for UWB antenna synthesis</title>
+      <link>/publication/lizzi-time-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based time-domain antenna synthesis for enhanced UWB communication systems</title>
+      <link>/publication/lizzi-pso-based-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-based-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PSO-Driven Spline-Based Shaping Approach for Ultrawideband (UWB) Antenna Synthesis</title>
+      <link>/publication/lizzi-pso-driven-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-driven-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-based approach for the synthesis of antennas for UWB communication systems</title>
+      <link>/publication/benedetti-time-based-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-time-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Miniaturized UWB Antenna for Wireless Dongle Devices</title>
+      <link>/publication/viani-miniaturized-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-miniaturized-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spline-shaped ultra-wideband antenna operating in ecc released frequency spectrum</title>
+      <link>/publication/viani-spline-shaped-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-spline-shaped-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An innovative spline-based shaping approach for ultra-wideband antenna synthesis</title>
+      <link>/publication/lizzi-innovative-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-innovative-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a Spline-Shaped UWB Antenna by PSO</title>
+      <link>/publication/lizzi-optimization-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-optimization-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

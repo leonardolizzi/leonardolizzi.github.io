@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolo Rocca | Leonardo Lizzi</title>
+    <link>/author/paolo-rocca/</link>
+      <atom:link href="/author/paolo-rocca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paolo Rocca</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Paolo Rocca</title>
+      <link>/author/paolo-rocca/</link>
+    </image>
+    
+    <item>
+      <title>Antenna synthesis techniques @ ELEDIA Research Group</title>
+      <link>/publication/caramanica-antenna-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/caramanica-antenna-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of WSNs for homeland/environmental security and surveillance</title>
+      <link>/publication/viani-exploitation-2010-1/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-exploitation-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodologies for the solution of inverse scattering problems @ ELEDIA Research Group</title>
+      <link>/publication/barriere-methodologies-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/barriere-methodologies-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planar Monopole UWB Antenna with Unii1/Unii2 WLAN-Band Notched Characteristics</title>
+      <link>/publication/lizzi-planar-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-planar-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metodologie e algoritmi per la risoluzione di problemi di scattering elettromagnetico inverso presso il gruppo ELEDIA a Trento</title>
+      <link>/publication/donelli-metodologie-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-metodologie-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and antenna optimization at ELEDIA in Trento</title>
+      <link>/publication/donelli-synthesis-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-synthesis-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The M-DSO-ESPRIT Method for Maximum Likelihood DOA Estimation</title>
+      <link>/publication/lizzi-m-dso-esprit-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-m-dso-esprit-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

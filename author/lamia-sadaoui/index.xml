@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lamia Sadaoui | Leonardo Lizzi</title>
+    <link>/author/lamia-sadaoui/</link>
+      <atom:link href="/author/lamia-sadaoui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lamia Sadaoui</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lamia Sadaoui</title>
+      <link>/author/lamia-sadaoui/</link>
+    </image>
+    
+    <item>
+      <title>Study of a Method for Increasing Isolation Between Closely Spaced Elements integrated in Multi-Standard Multi-Antenna Systems</title>
+      <link>/publication/sadaoui-study-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-study-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Multiband LTE MIMO Antenna System Integrated in its Real Environment</title>
+      <link>/publication/sadaoui-design-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-design-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

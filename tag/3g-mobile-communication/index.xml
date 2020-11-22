@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;3G mobile communication&#34; | Leonardo Lizzi</title>
+    <link>/tag/3g-mobile-communication/</link>
+      <atom:link href="/tag/3g-mobile-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;3G mobile communication&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;3G mobile communication&#34;</title>
+      <link>/tag/3g-mobile-communication/</link>
+    </image>
+    
+    <item>
+      <title>Bandwidth enhancement of rectangular dielectric resonator antenna for UMTS application</title>
+      <link>/publication/allabouche-bandwidth-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-bandwidth-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable Antenna for Future Spectrum Reallocations in 5G Communications</title>
+      <link>/publication/trinh-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of light and low-profile antennas for vehicular applications</title>
+      <link>/publication/lizzi-design-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact low-profile omnidirectional surface wave antenna for UMTS applications</title>
+      <link>/publication/lizzi-compact-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-compact-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printed UWB Antenna Operating Over Multiple Mobile Wireless Standards</title>
+      <link>/publication/lizzi-printed-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-printed-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DVBH/GSM/UMTS Planar Antenna for Multimode Wireless Devices</title>
+      <link>/publication/lizzi-dvbhgsmumts-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dvbhgsmumts-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

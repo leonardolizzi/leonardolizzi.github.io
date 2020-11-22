@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rania Khalifeh | Leonardo Lizzi</title>
+    <link>/author/rania-khalifeh/</link>
+      <atom:link href="/author/rania-khalifeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rania Khalifeh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rania Khalifeh</title>
+      <link>/author/rania-khalifeh/</link>
+    </image>
+    
+    <item>
+      <title>Waveguide Surface on Textile for Body Area Network</title>
+      <link>/publication/ferrero-waveguide-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-waveguide-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement d’une antenne miniature multiband reconfigurable pour des applications de localisation</title>
+      <link>/publication/khalifeh-developpement-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/khalifeh-developpement-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable multi-band antenna for miniature tracking terminal</title>
+      <link>/publication/khalifeh-reconfigurable-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khalifeh-reconfigurable-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,1140 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>An Optimization Driven Method for the Synthesis of Reconfigurable Parasitic Antenna Arrays</title>
+      <link>/publication/santamaria-optimization-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-optimization-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Small Antenna Performance Using a Machine Learning Approach</title>
+      <link>/publication/roqui-estimation-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/roqui-estimation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of Finger Effects on Coverage Efficiency for User Equipment Mm-Wave Antenna</title>
+      <link>/publication/nguyen-measurement-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-measurement-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source 4G Experimental Setup</title>
+      <link>/publication/boussad-open-source-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-open-source-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Compact Pattern Reconfigurable Antenna for UHF Internet of Things Applications</title>
+      <link>/publication/haydhah-compact-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-compact-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact 4-Element Radiation Pattern Agile Antenna for Spatial Filtering in IoT Networks</title>
+      <link>/publication/santamaria-compact-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-compact-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Optimal to Industrial Antenna: The Designer Dilemma for Compact NB-IoT Terminal</title>
+      <link>/publication/ferrero-optimal-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-optimal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna Array Design for MmWave Multilayer PCB Antenna Array in User Equipement</title>
+      <link>/publication/nguyen-antenna-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-antenna-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Evaluation of User&#39;s Finger Effects on a 5G Terminal Antenna Array at 26 GHz</title>
+      <link>/publication/nguyen-experimental-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-experimental-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antennas for future IoT devices: challenges and perspectives</title>
+      <link>/publication/lizzi-antennas-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antennas-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-Port Antenna with Matching Network for Dual-band IoT Terminal</title>
+      <link>/publication/santamaria-2-port-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-2-port-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Reconfigurable Antenna Robust to Folding in Wearable Applications</title>
+      <link>/publication/santamaria-flexible-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-flexible-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of a Method for Increasing Isolation Between Closely Spaced Elements integrated in Multi-Standard Multi-Antenna Systems</title>
+      <link>/publication/sadaoui-study-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-study-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waveguide Surface on Textile for Body Area Network</title>
+      <link>/publication/ferrero-waveguide-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-waveguide-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Optimisation antenne et circuit d&#39;adaptation pour terminaux mobiles de nouvelle génération</title>
+      <link>/publication/ferrero-co-optimisation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-co-optimisation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement d’une antenne miniature multiband reconfigurable pour des applications de localisation</title>
+      <link>/publication/khalifeh-developpement-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/khalifeh-developpement-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation d&#39;une antenne fente reconfigurable en diagramme basée sur des diodes PIN de faible capacité</title>
+      <link>/publication/santamaria-implementation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-implementation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based Combined Antenna and Matching Network Optimization for Mobile Terminals</title>
+      <link>/publication/nguyen-pso-based-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-pso-based-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Multiband LTE MIMO Antenna System Integrated in its Real Environment</title>
+      <link>/publication/sadaoui-design-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-design-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Matching for Single Resonance Miniaturized Antenna for IoT applications</title>
+      <link>/publication/khai-nguyen-dual-matching-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khai-nguyen-dual-matching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiation Pattern Agile Antenna for Smart IoT Gateways</title>
+      <link>/publication/santamaria-radiation-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-radiation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling Element Strategy for Future Borderless Smartphone</title>
+      <link>/publication/ferrero-coupling-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-coupling-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Ground Plane Reduction in Antennas for Compact Terminals</title>
+      <link>/publication/lizzi-impact-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-impact-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable multi-band antenna for miniature tracking terminal</title>
+      <link>/publication/khalifeh-reconfigurable-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khalifeh-reconfigurable-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miniature Multiband Inverted-F Antenna over an Electrically Small Ground Plane for Compact IoT Terminals</title>
+      <link>/publication/lizzi-miniature-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-miniature-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pattern-Reconfigurable Slot Antenna for IoT Network Concentrators</title>
+      <link>/publication/trinh-pattern-reconfigurable-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental analysis of the human body effect on miniature LPWAN antennas</title>
+      <link>/publication/berrada-experimental-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-experimental-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Methods to Determine Bounds on the $Q$ -Factor for a Given Directivity</title>
+      <link>/publication/jonsson-methods-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jonsson-methods-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex optimization for the synthesis of matching filters</title>
+      <link>/publication/bose-convex-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/bose-convex-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A digitally tuned reconfigurable patch antenna for IoT devices</title>
+      <link>/publication/asadallah-digitally-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/asadallah-digitally-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of miniature antenna for sub-GHz on-body applications</title>
+      <link>/publication/berrada-characterization-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-characterization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficient reconfigurable antenna for ultra-low power IoT devices</title>
+      <link>/publication/houret-energy-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-energy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximity Effect of Metallic Environments on Cylindrical Dielectric Resonator Antenna for Smart Metering Applications</title>
+      <link>/publication/allabouche-proximity-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-proximity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of an open source software defined radio test bed</title>
+      <link>/publication/buey-validation-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-validation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-cost antenna technology for LPWAN IoT in rural applications</title>
+      <link>/publication/pham-low-cost-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pham-low-cost-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The potential role of LPWAN in the Silver Economy</title>
+      <link>/publication/lizzi-potential-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-potential-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne flexible utilisant une technologie additive et du métal liquide</title>
+      <link>/publication/cosker-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne intégrée reconfigurable robuste à l’influence de l’environnement</title>
+      <link>/publication/houret-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne Miniature Multi-bandes pour Terminaux IoT Compacts</title>
+      <link>/publication/lizzi-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne à Résonateur Diélectrique pour réduire l’effet du corps humain dans un dispositif IoT miniature</title>
+      <link>/publication/allabouche-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORION: Orientation estimation using commodity Wi-Fi</title>
+      <link>/publication/mahfoudi-orion-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mahfoudi-orion-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiband rectangular dielectric resonator antenna for 5G applications</title>
+      <link>/publication/allabouche-multiband-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-multiband-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D compact antenna using liquid metal and additive technologies</title>
+      <link>/publication/cosker-3-d-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna Q bounds for given directivity: a case study of a directive parasitic element antenna</title>
+      <link>/publication/jonsson-antenna-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jonsson-antenna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact integrated IoT antenna robust to the effects of the environment</title>
+      <link>/publication/houret-compact-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-compact-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO antenna performance assessment based on open source software defined radio</title>
+      <link>/publication/buey-mimo-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-mimo-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of a Dielectric Resonator Antenna to Reduce Hand Effect in a Miniature IoT Device</title>
+      <link>/publication/allabouche-use-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-use-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of 3-D Flexible Antennas Using Liquid Metal and Additive Printing Technologies</title>
+      <link>/publication/cosker-realization-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-realization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Different Reconfigurable Directional Antennas for Improving WSN Autonomy</title>
+      <link>/publication/le-comparison-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-comparison-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable and Long-Range Wireless Sensor Node for Long Time Operation</title>
+      <link>/publication/islam-reconfigurable-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/islam-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of antennas enabling miniature and energy efficient wireless IoT devices for smart cities</title>
+      <link>/publication/lizzi-design-2016-1/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of miniature antennas for IoT applications</title>
+      <link>/publication/lizzi-design-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directional Reconfigurable Antenna for Efficient Wireless Sensor Networks</title>
+      <link>/publication/le-directional-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-directional-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadri-sectorial Zigbee/LTE antenna for WSN applications</title>
+      <link>/publication/trinh-quadri-sectorial-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-quadri-sectorial-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D flexible antenna realization process using liquid metal and additive technology</title>
+      <link>/publication/cosker-3-d-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of Different Excitation Techniques for Cylindrical Dielectric Resonator Antenna</title>
+      <link>/publication/allabouche-comparative-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-comparative-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential pattern-reconfigurable antenna prototype for efficient wireless sensor networks</title>
+      <link>/publication/lizzi-differential-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-differential-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental sensitivity of miniature antennas for IoT devices</title>
+      <link>/publication/ferrero-environmental-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-environmental-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Energy Efficiency of Mobile WSN Using Reconfigurable Directional Antennas</title>
+      <link>/publication/le-improving-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-improving-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-directive parasitic element antenna for spatial filtering applications</title>
+      <link>/publication/ferrero-super-directive-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-super-directive-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wake-up receiver with ad-hoc antenna co-design for wearable applications</title>
+      <link>/publication/polonelli-wake-up-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/polonelli-wake-up-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Miniature Position Tracker Using LoRa and GPS Technology</title>
+      <link>/publication/monin-enabling-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/monin-enabling-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of hand effect on a handheld terminal at 11 GHz</title>
+      <link>/publication/buey-investigation-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-investigation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Method for 3D Miniature Antenna Fabrication Based on Liquid Metal and 3D Printer</title>
+      <link>/publication/cosker-new-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-new-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern-Reconfigurable Antenna Suitable for Autonomous Wireless Nodes</title>
+      <link>/publication/trinh-pattern-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth enhancement of rectangular dielectric resonator antenna for UMTS application</title>
+      <link>/publication/allabouche-bandwidth-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-bandwidth-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable Antenna for Future Spectrum Reallocations in 5G Communications</title>
+      <link>/publication/trinh-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern reconfigurable antennas in wireless sensor networks: challenges and opportunities</title>
+      <link>/publication/lizzi-pattern-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pattern-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasability of an Ultra narrow band antenna for the internet of things</title>
+      <link>/publication/ferrero-feasability-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-feasability-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stratospheric platform for telecommunication missions</title>
+      <link>/publication/baurreau-stratospheric-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baurreau-stratospheric-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmision line based approach for the synthesis of pattern reconfigurable antennas</title>
+      <link>/publication/lizzi-transmision-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-transmision-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne reconfigurable pour application Car-to-Car</title>
+      <link>/publication/trinh-antenne-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-antenne-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4 x 4 MIMO Multiband Antenna System for Mobile Handsets</title>
+      <link>/publication/trinh-4-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-4-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of ultra-narrow band miniature antennas for internet-of-things applications</title>
+      <link>/publication/lizzi-use-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-use-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental validation of a miniature implantable RFID tag antenna for small animals monitoring</title>
+      <link>/publication/lizzi-experimental-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-experimental-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSSI measurements to achieve mouse localization in a cage</title>
+      <link>/publication/perrissol-rssi-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perrissol-rssi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple antenna structure enabling the simultaneous excitation of two different polarisation and radiation modes</title>
+      <link>/publication/lizzi-simple-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-simple-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of the UC-PBG structure as ground plane to enhance microstrip antenna bandwidth</title>
+      <link>/publication/pflaum-exploitation-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pflaum-exploitation-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of miniature pattern-reconfigurable antennas for smart wireless sensor nodes</title>
+      <link>/publication/lizzi-synthesis-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-profile multimode antenna for vehicular applications</title>
+      <link>/publication/lizzi-low-profile-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-low-profile-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of light and low-profile antennas for vehicular applications</title>
+      <link>/publication/lizzi-design-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne multi-bandes multi-modes pour applications sur véhicules</title>
+      <link>/publication/lizzi-antenne-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarization-Agile Ads-Interleaved Planar Arrays</title>
+      <link>/publication/oliveri-polarization-agile-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveri-polarization-agile-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact low-profile omnidirectional surface wave antenna for UMTS applications</title>
+      <link>/publication/lizzi-compact-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-compact-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-profile tetra wire-patch antenna for automotive applications</title>
+      <link>/publication/lizzi-low-profile-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-low-profile-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Nested Multi-Scaling Inexact-Newton Iterative Approach for Microwave Imaging</title>
+      <link>/publication/oliveri-nested-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveri-nested-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Time-Domain Approach to the Synthesis of UWB Antenna Systems</title>
+      <link>/publication/lizzi-time-domain-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-time-domain-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light and Low-Profile GSM Omnidirectional Antenna</title>
+      <link>/publication/lizzi-light-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-light-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiband Fractal Antenna for Wireless Communication Systems for Emergency Management</title>
+      <link>/publication/lizzi-multiband-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-multiband-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic classification for electromagnetic demining — Issues and advances towards real implementations</title>
+      <link>/publication/viani-probabilistic-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-probabilistic-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and analysis of a monopole radiator for UWB Body Area Networks</title>
+      <link>/publication/lizzi-synthesis-2011-1/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based early alert system for preventing wildlife-vehicle collisions in Alps regions</title>
+      <link>/publication/viani-wsn-based-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of spline-based geometries for the time-domain synthesis of UWB antennas</title>
+      <link>/publication/lizzi-exploitation-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a wideband antenna array for microwave imaging applications</title>
+      <link>/publication/lizzi-synthesis-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Band Printed Fractal Monopole Antenna for LTE Applications</title>
+      <link>/publication/lizzi-dual-band-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dual-band-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printed UWB Antenna Operating Over Multiple Mobile Wireless Standards</title>
+      <link>/publication/lizzi-printed-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-printed-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna synthesis techniques @ ELEDIA Research Group</title>
+      <link>/publication/caramanica-antenna-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/caramanica-antenna-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of WSNs for homeland/environmental security and surveillance</title>
+      <link>/publication/viani-exploitation-2010-1/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-exploitation-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodologies for the solution of inverse scattering problems @ ELEDIA Research Group</title>
+      <link>/publication/barriere-methodologies-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/barriere-methodologies-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of notched band UWB antennas with a hybrid PSO-spline technique</title>
+      <link>/publication/lizzi-synthesis-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based solutions for security and surveillance</title>
+      <link>/publication/viani-wsn-based-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Electromagnetic subsurface imaging by means of a multi-resolution classification approach</title>
+      <link>/publication/lizzi-3-d-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-3-d-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the exploitation of the iterative multi-scaling scheme for the electromagnetic non-destructive evaluation with the Inexact-Newton method</title>
+      <link>/publication/lizzi-exploitation-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel design methodology for integration of optimized ultra-wideband elements with aperiodic array topologies</title>
+      <link>/publication/lizzi-novel-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-novel-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADS interleaved arrays with reconfigurable polarization</title>
+      <link>/publication/oliveri-ads-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveri-ads-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An iterative multi-scaling scheme for the electromagnetic imaging of separated scatterers by the Inexact-Newton method</title>
+      <link>/publication/bozza-iterative-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/bozza-iterative-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna array synthesis through time modulation</title>
+      <link>/publication/poli-antenna-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/poli-antenna-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of the Directions-of-Arrival of correlated signals by means of a SVM-based multi-resolution approach</title>
+      <link>/publication/lizzi-estimation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-estimation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of antenna elements for utilization in UWB arrays</title>
+      <link>/publication/lizzi-synthesis-2010-1/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of Parasitic Smart Antennas in Wireless Sensor Networks</title>
+      <link>/publication/viani-exploitation-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-exploitation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Design of a Fractal-Shaped GSM/UMTS Antenna</title>
+      <link>/publication/lizzi-hybrid-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-hybrid-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planar Monopole UWB Antenna with Unii1/Unii2 WLAN-Band Notched Characteristics</title>
+      <link>/publication/lizzi-planar-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-planar-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camera placement using particle swarm optimization in visual surveillance applications</title>
+      <link>/publication/conci-camera-2009/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/conci-camera-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time domain analysis for UWB antenna synthesis</title>
+      <link>/publication/lizzi-time-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional real-time localization of subsurface objects -  From theory to experimental validation</title>
+      <link>/publication/lizzi-three-dimensional-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-three-dimensional-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of perturbed fractals for antenna synthesis</title>
+      <link>/publication/lizzi-analysis-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-analysis-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based time-domain antenna synthesis for enhanced UWB communication systems</title>
+      <link>/publication/lizzi-pso-based-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-based-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time indoor localization and tracking of passive targets by means of wireless sensor networks</title>
+      <link>/publication/viani-real-time-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-real-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DVBH/GSM/UMTS Planar Antenna for Multimode Wireless Devices</title>
+      <link>/publication/lizzi-dvbhgsmumts-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dvbhgsmumts-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Monopolar Quad-Band Antenna Based on a Hilbert Self-Affine Prefractal Geometry</title>
+      <link>/publication/azaro-monopolar-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/azaro-monopolar-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Band Spline-Shaped PCB Antenna for Wi-Fi Applications</title>
+      <link>/publication/lizzi-dual-band-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dual-band-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation on UWB-MIMO Communication Systems Based on an Experimental Channel Characterization</title>
+      <link>/publication/migliore-investigation-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/migliore-investigation-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metodologie e algoritmi per la risoluzione di problemi di scattering elettromagnetico inverso presso il gruppo ELEDIA a Trento</title>
+      <link>/publication/donelli-metodologie-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-metodologie-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and antenna optimization at ELEDIA in Trento</title>
+      <link>/publication/donelli-synthesis-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-synthesis-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PSO-Driven Spline-Based Shaping Approach for Ultrawideband (UWB) Antenna Synthesis</title>
+      <link>/publication/lizzi-pso-driven-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-driven-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-based approach for the synthesis of antennas for UWB communication systems</title>
+      <link>/publication/benedetti-time-based-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-time-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a miniaturized planar antenna for FCC-UWB communication systems</title>
+      <link>/publication/lizzi-design-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental channel characterization of a MIMO-UWB communication system</title>
+      <link>/publication/lizzi-experimental-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-experimental-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of smart antennas in Wireless Sensor Networks</title>
+      <link>/publication/benedetti-integration-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-integration-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking through RSSI measurements in wireless sensor networks</title>
+      <link>/publication/viani-object-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-object-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast Field and Contrast Source Formulations for Microwave Imaging — A Comparative Analysis</title>
+      <link>/publication/lizzi-contrast-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-contrast-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Miniaturized UWB Antenna for Wireless Dongle Devices</title>
+      <link>/publication/viani-miniaturized-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-miniaturized-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A RSSI-based Method for Real-Time Object Localization in Wireless Sensor Networks</title>
+      <link>/publication/viani-rssi-based-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-rssi-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of Smart Antennas in Wireless Sensor Networks</title>
+      <link>/publication/donelli-exploitation-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-exploitation-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spline-shaped ultra-wideband antenna operating in ecc released frequency spectrum</title>
+      <link>/publication/viani-spline-shaped-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-spline-shaped-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The M-DSO-ESPRIT Method for Maximum Likelihood DOA Estimation</title>
+      <link>/publication/lizzi-m-dso-esprit-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-m-dso-esprit-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An innovative spline-based shaping approach for ultra-wideband antenna synthesis</title>
+      <link>/publication/lizzi-innovative-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-innovative-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a Spline-Shaped UWB Antenna by PSO</title>
+      <link>/publication/lizzi-optimization-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-optimization-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SVM-Based Multi-resolution Procedure for the Estimation of the DOAs of Interfering Signals in a Communication System</title>
+      <link>/publication/donelli-svm-based-2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-svm-based-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognition and Detection of Impact Craters from EO Products</title>
+      <link>/publication/bruzzone-recognition-2004/</link>
+      <pubDate>Mon, 01 Mar 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/bruzzone-recognition-2004/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

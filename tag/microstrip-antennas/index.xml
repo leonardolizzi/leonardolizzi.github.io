@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;microstrip antennas&#34; | Leonardo Lizzi</title>
+    <link>/tag/microstrip-antennas/</link>
+      <atom:link href="/tag/microstrip-antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;microstrip antennas&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;microstrip antennas&#34;</title>
+      <link>/tag/microstrip-antennas/</link>
+    </image>
+    
+    <item>
+      <title>A digitally tuned reconfigurable patch antenna for IoT devices</title>
+      <link>/publication/asadallah-digitally-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/asadallah-digitally-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental validation of a miniature implantable RFID tag antenna for small animals monitoring</title>
+      <link>/publication/lizzi-experimental-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-experimental-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of the UC-PBG structure as ground plane to enhance microstrip antenna bandwidth</title>
+      <link>/publication/pflaum-exploitation-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pflaum-exploitation-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a wideband antenna array for microwave imaging applications</title>
+      <link>/publication/lizzi-synthesis-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Band Printed Fractal Monopole Antenna for LTE Applications</title>
+      <link>/publication/lizzi-dual-band-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dual-band-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printed UWB Antenna Operating Over Multiple Mobile Wireless Standards</title>
+      <link>/publication/lizzi-printed-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-printed-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Monopolar Quad-Band Antenna Based on a Hilbert Self-Affine Prefractal Geometry</title>
+      <link>/publication/azaro-monopolar-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/azaro-monopolar-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An innovative spline-based shaping approach for ultra-wideband antenna synthesis</title>
+      <link>/publication/lizzi-innovative-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-innovative-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a Spline-Shaped UWB Antenna by PSO</title>
+      <link>/publication/lizzi-optimization-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-optimization-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

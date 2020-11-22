@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. A. Barrière | Leonardo Lizzi</title>
+    <link>/author/p.-a.-barriere/</link>
+      <atom:link href="/author/p.-a.-barriere/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. A. Barrière</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P. A. Barrière</title>
+      <link>/author/p.-a.-barriere/</link>
+    </image>
+    
+    <item>
+      <title>Methodologies for the solution of inverse scattering problems @ ELEDIA Research Group</title>
+      <link>/publication/barriere-methodologies-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/barriere-methodologies-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

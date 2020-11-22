@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;UHF antennas&#34; | Leonardo Lizzi</title>
+    <link>/tag/uhf-antennas/</link>
+      <atom:link href="/tag/uhf-antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;UHF antennas&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;UHF antennas&#34;</title>
+      <link>/tag/uhf-antennas/</link>
+    </image>
+    
+    <item>
+      <title>From Optimal to Industrial Antenna: The Designer Dilemma for Compact NB-IoT Terminal</title>
+      <link>/publication/ferrero-optimal-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-optimal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Multiband LTE MIMO Antenna System Integrated in its Real Environment</title>
+      <link>/publication/sadaoui-design-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-design-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Matching for Single Resonance Miniaturized Antenna for IoT applications</title>
+      <link>/publication/khai-nguyen-dual-matching-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khai-nguyen-dual-matching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A digitally tuned reconfigurable patch antenna for IoT devices</title>
+      <link>/publication/asadallah-digitally-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/asadallah-digitally-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of miniature antenna for sub-GHz on-body applications</title>
+      <link>/publication/berrada-characterization-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-characterization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of an open source software defined radio test bed</title>
+      <link>/publication/buey-validation-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-validation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D compact antenna using liquid metal and additive technologies</title>
+      <link>/publication/cosker-3-d-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna Q bounds for given directivity: a case study of a directive parasitic element antenna</title>
+      <link>/publication/jonsson-antenna-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jonsson-antenna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact integrated IoT antenna robust to the effects of the environment</title>
+      <link>/publication/houret-compact-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-compact-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of a Dielectric Resonator Antenna to Reduce Hand Effect in a Miniature IoT Device</title>
+      <link>/publication/allabouche-use-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-use-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of 3-D Flexible Antennas Using Liquid Metal and Additive Printing Technologies</title>
+      <link>/publication/cosker-realization-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-realization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D flexible antenna realization process using liquid metal and additive technology</title>
+      <link>/publication/cosker-3-d-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential pattern-reconfigurable antenna prototype for efficient wireless sensor networks</title>
+      <link>/publication/lizzi-differential-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-differential-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-directive parasitic element antenna for spatial filtering applications</title>
+      <link>/publication/ferrero-super-directive-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-super-directive-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth enhancement of rectangular dielectric resonator antenna for UMTS application</title>
+      <link>/publication/allabouche-bandwidth-2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-bandwidth-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSSI measurements to achieve mouse localization in a cage</title>
+      <link>/publication/perrissol-rssi-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perrissol-rssi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Band Spline-Shaped PCB Antenna for Wi-Fi Applications</title>
+      <link>/publication/lizzi-dual-band-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dual-band-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Miniaturized UWB Antenna for Wireless Dongle Devices</title>
+      <link>/publication/viani-miniaturized-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-miniaturized-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

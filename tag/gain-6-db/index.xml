@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;gain 6 dB&#34; | Leonardo Lizzi</title>
+    <link>/tag/gain-6-db/</link>
+      <atom:link href="/tag/gain-6-db/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;gain 6 dB&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;gain 6 dB&#34;</title>
+      <link>/tag/gain-6-db/</link>
+    </image>
+    
+    <item>
+      <title>MIMO antenna performance assessment based on open source software defined radio</title>
+      <link>/publication/buey-mimo-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-mimo-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

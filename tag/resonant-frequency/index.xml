@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Resonant frequency&#34; | Leonardo Lizzi</title>
+    <link>/tag/resonant-frequency/</link>
+      <atom:link href="/tag/resonant-frequency/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Resonant frequency&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Resonant frequency&#34;</title>
+      <link>/tag/resonant-frequency/</link>
+    </image>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasability of an Ultra narrow band antenna for the internet of things</title>
+      <link>/publication/ferrero-feasability-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-feasability-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light and Low-Profile GSM Omnidirectional Antenna</title>
+      <link>/publication/lizzi-light-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-light-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of perturbed fractals for antenna synthesis</title>
+      <link>/publication/lizzi-analysis-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-analysis-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

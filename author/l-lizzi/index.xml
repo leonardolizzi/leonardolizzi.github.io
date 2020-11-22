@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Lizzi | Leonardo Lizzi</title>
+    <link>/author/l-lizzi/</link>
+      <atom:link href="/author/l-lizzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Lizzi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L Lizzi</title>
+      <link>/author/l-lizzi/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of Different Reconfigurable Directional Antennas for Improving WSN Autonomy</title>
+      <link>/publication/le-comparison-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-comparison-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directional Reconfigurable Antenna for Efficient Wireless Sensor Networks</title>
+      <link>/publication/le-directional-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-directional-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadri-sectorial Zigbee/LTE antenna for WSN applications</title>
+      <link>/publication/trinh-quadri-sectorial-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-quadri-sectorial-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Electromagnetic subsurface imaging by means of a multi-resolution classification approach</title>
+      <link>/publication/lizzi-3-d-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-3-d-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna array synthesis through time modulation</title>
+      <link>/publication/poli-antenna-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/poli-antenna-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of antenna elements for utilization in UWB arrays</title>
+      <link>/publication/lizzi-synthesis-2010-1/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast Field and Contrast Source Formulations for Microwave Imaging — A Comparative Analysis</title>
+      <link>/publication/lizzi-contrast-2008/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-contrast-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A RSSI-based Method for Real-Time Object Localization in Wireless Sensor Networks</title>
+      <link>/publication/viani-rssi-based-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-rssi-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SVM-Based Multi-resolution Procedure for the Estimation of the DOAs of Interfering Signals in a Communication System</title>
+      <link>/publication/donelli-svm-based-2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-svm-based-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

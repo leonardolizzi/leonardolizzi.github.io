@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Cosker | Leonardo Lizzi</title>
+    <link>/author/m.-cosker/</link>
+      <atom:link href="/author/m.-cosker/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Cosker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Cosker</title>
+      <link>/author/m.-cosker/</link>
+    </image>
+    
+    <item>
+      <title>3D compact antenna using liquid metal and additive technologies</title>
+      <link>/publication/cosker-3-d-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of 3-D Flexible Antennas Using Liquid Metal and Additive Printing Technologies</title>
+      <link>/publication/cosker-realization-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-realization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D flexible antenna realization process using liquid metal and additive technology</title>
+      <link>/publication/cosker-3-d-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Method for 3D Miniature Antenna Fabrication Based on Liquid Metal and 3D Printer</title>
+      <link>/publication/cosker-new-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-new-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

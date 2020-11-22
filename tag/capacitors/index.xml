@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;capacitors&#34; | Leonardo Lizzi</title>
+    <link>/tag/capacitors/</link>
+      <atom:link href="/tag/capacitors/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;capacitors&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;capacitors&#34;</title>
+      <link>/tag/capacitors/</link>
+    </image>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A digitally tuned reconfigurable patch antenna for IoT devices</title>
+      <link>/publication/asadallah-digitally-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/asadallah-digitally-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficient reconfigurable antenna for ultra-low power IoT devices</title>
+      <link>/publication/houret-energy-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-energy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable Antenna for Future Spectrum Reallocations in 5G Communications</title>
+      <link>/publication/trinh-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasability of an Ultra narrow band antenna for the internet of things</title>
+      <link>/publication/ferrero-feasability-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-feasability-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of miniature pattern-reconfigurable antennas for smart wireless sensor nodes</title>
+      <link>/publication/lizzi-synthesis-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

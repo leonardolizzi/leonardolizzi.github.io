@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Jorio | Leonardo Lizzi</title>
+    <link>/author/m.-jorio/</link>
+      <atom:link href="/author/m.-jorio/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Jorio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Jorio</title>
+      <link>/author/m.-jorio/</link>
+    </image>
+    
+    <item>
+      <title>Proximity Effect of Metallic Environments on Cylindrical Dielectric Resonator Antenna for Smart Metering Applications</title>
+      <link>/publication/allabouche-proximity-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-proximity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiband rectangular dielectric resonator antenna for 5G applications</title>
+      <link>/publication/allabouche-multiband-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-multiband-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of a Dielectric Resonator Antenna to Reduce Hand Effect in a Miniature IoT Device</title>
+      <link>/publication/allabouche-use-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-use-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of Different Excitation Techniques for Cylindrical Dielectric Resonator Antenna</title>
+      <link>/publication/allabouche-comparative-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-comparative-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

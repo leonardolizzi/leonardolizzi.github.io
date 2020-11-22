@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Oliveri | Leonardo Lizzi</title>
+    <link>/author/g.-oliveri/</link>
+      <atom:link href="/author/g.-oliveri/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Oliveri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Oliveri</title>
+      <link>/author/g.-oliveri/</link>
+    </image>
+    
+    <item>
+      <title>A Nested Multi-Scaling Inexact-Newton Iterative Approach for Microwave Imaging</title>
+      <link>/publication/oliveri-nested-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveri-nested-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiband Fractal Antenna for Wireless Communication Systems for Emergency Management</title>
+      <link>/publication/lizzi-multiband-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-multiband-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and analysis of a monopole radiator for UWB Body Area Networks</title>
+      <link>/publication/lizzi-synthesis-2011-1/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of spline-based geometries for the time-domain synthesis of UWB antennas</title>
+      <link>/publication/lizzi-exploitation-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printed UWB Antenna Operating Over Multiple Mobile Wireless Standards</title>
+      <link>/publication/lizzi-printed-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-printed-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of notched band UWB antennas with a hybrid PSO-spline technique</title>
+      <link>/publication/lizzi-synthesis-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based solutions for security and surveillance</title>
+      <link>/publication/viani-wsn-based-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the exploitation of the iterative multi-scaling scheme for the electromagnetic non-destructive evaluation with the Inexact-Newton method</title>
+      <link>/publication/lizzi-exploitation-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel design methodology for integration of optimized ultra-wideband elements with aperiodic array topologies</title>
+      <link>/publication/lizzi-novel-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-novel-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADS interleaved arrays with reconfigurable polarization</title>
+      <link>/publication/oliveri-ads-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveri-ads-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An iterative multi-scaling scheme for the electromagnetic imaging of separated scatterers by the Inexact-Newton method</title>
+      <link>/publication/bozza-iterative-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/bozza-iterative-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna array synthesis through time modulation</title>
+      <link>/publication/poli-antenna-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/poli-antenna-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of the Directions-of-Arrival of correlated signals by means of a SVM-based multi-resolution approach</title>
+      <link>/publication/lizzi-estimation-2010/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-estimation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of antenna elements for utilization in UWB arrays</title>
+      <link>/publication/lizzi-synthesis-2010-1/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of Parasitic Smart Antennas in Wireless Sensor Networks</title>
+      <link>/publication/viani-exploitation-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-exploitation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Design of a Fractal-Shaped GSM/UMTS Antenna</title>
+      <link>/publication/lizzi-hybrid-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-hybrid-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional real-time localization of subsurface objects -  From theory to experimental validation</title>
+      <link>/publication/lizzi-three-dimensional-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-three-dimensional-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time indoor localization and tracking of passive targets by means of wireless sensor networks</title>
+      <link>/publication/viani-real-time-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-real-time-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

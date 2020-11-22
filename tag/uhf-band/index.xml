@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;UHF band&#34; | Leonardo Lizzi</title>
+    <link>/tag/uhf-band/</link>
+      <atom:link href="/tag/uhf-band/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;UHF band&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;UHF band&#34;</title>
+      <link>/tag/uhf-band/</link>
+    </image>
+    
+    <item>
+      <title>3D compact antenna using liquid metal and additive technologies</title>
+      <link>/publication/cosker-3-d-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna Q bounds for given directivity: a case study of a directive parasitic element antenna</title>
+      <link>/publication/jonsson-antenna-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jonsson-antenna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact integrated IoT antenna robust to the effects of the environment</title>
+      <link>/publication/houret-compact-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-compact-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of a Dielectric Resonator Antenna to Reduce Hand Effect in a Miniature IoT Device</title>
+      <link>/publication/allabouche-use-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-use-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D flexible antenna realization process using liquid metal and additive technology</title>
+      <link>/publication/cosker-3-d-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

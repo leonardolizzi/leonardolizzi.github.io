@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Security&#34; | Leonardo Lizzi</title>
+    <link>/tag/security/</link>
+      <atom:link href="/tag/security/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Security&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Security&#34;</title>
+      <link>/tag/security/</link>
+    </image>
+    
+    <item>
+      <title>Low-cost antenna technology for LPWAN IoT in rural applications</title>
+      <link>/publication/pham-low-cost-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pham-low-cost-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based solutions for security and surveillance</title>
+      <link>/publication/viani-wsn-based-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camera placement using particle swarm optimization in visual surveillance applications</title>
+      <link>/publication/conci-camera-2009/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/conci-camera-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

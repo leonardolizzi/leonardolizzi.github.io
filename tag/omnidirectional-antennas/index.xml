@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;omnidirectional antennas&#34; | Leonardo Lizzi</title>
+    <link>/tag/omnidirectional-antennas/</link>
+      <atom:link href="/tag/omnidirectional-antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;omnidirectional antennas&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;omnidirectional antennas&#34;</title>
+      <link>/tag/omnidirectional-antennas/</link>
+    </image>
+    
+    <item>
+      <title>Simple antenna structure enabling the simultaneous excitation of two different polarisation and radiation modes</title>
+      <link>/publication/lizzi-simple-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-simple-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-profile multimode antenna for vehicular applications</title>
+      <link>/publication/lizzi-low-profile-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-low-profile-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of light and low-profile antennas for vehicular applications</title>
+      <link>/publication/lizzi-design-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact low-profile omnidirectional surface wave antenna for UMTS applications</title>
+      <link>/publication/lizzi-compact-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-compact-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light and Low-Profile GSM Omnidirectional Antenna</title>
+      <link>/publication/lizzi-light-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-light-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

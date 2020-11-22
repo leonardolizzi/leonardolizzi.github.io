@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;microwave antennas&#34; | Leonardo Lizzi</title>
+    <link>/tag/microwave-antennas/</link>
+      <atom:link href="/tag/microwave-antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;microwave antennas&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;microwave antennas&#34;</title>
+      <link>/tag/microwave-antennas/</link>
+    </image>
+    
+    <item>
+      <title>Radiation Pattern Agile Antenna for Smart IoT Gateways</title>
+      <link>/publication/santamaria-radiation-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-radiation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable Antenna for Future Spectrum Reallocations in 5G Communications</title>
+      <link>/publication/trinh-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasability of an Ultra narrow band antenna for the internet of things</title>
+      <link>/publication/ferrero-feasability-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-feasability-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of miniature pattern-reconfigurable antennas for smart wireless sensor nodes</title>
+      <link>/publication/lizzi-synthesis-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and analysis of a monopole radiator for UWB Body Area Networks</title>
+      <link>/publication/lizzi-synthesis-2011-1/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time domain analysis for UWB antenna synthesis</title>
+      <link>/publication/lizzi-time-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Band Spline-Shaped PCB Antenna for Wi-Fi Applications</title>
+      <link>/publication/lizzi-dual-band-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dual-band-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spline-shaped ultra-wideband antenna operating in ecc released frequency spectrum</title>
+      <link>/publication/viani-spline-shaped-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-spline-shaped-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

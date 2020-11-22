@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;multiband&#34; | Leonardo Lizzi</title>
+    <link>/tag/multiband/</link>
+      <atom:link href="/tag/multiband/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;multiband&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;multiband&#34;</title>
+      <link>/tag/multiband/</link>
+    </image>
+    
+    <item>
+      <title>Design of a Multiband LTE MIMO Antenna System Integrated in its Real Environment</title>
+      <link>/publication/sadaoui-design-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-design-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DVBH/GSM/UMTS Planar Antenna for Multimode Wireless Devices</title>
+      <link>/publication/lizzi-dvbhgsmumts-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dvbhgsmumts-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

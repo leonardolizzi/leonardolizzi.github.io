@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Switches&#34; | Leonardo Lizzi</title>
+    <link>/tag/switches/</link>
+      <atom:link href="/tag/switches/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Switches&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Switches&#34;</title>
+      <link>/tag/switches/</link>
+    </image>
+    
+    <item>
+      <title>Radiation Pattern Agile Antenna for Smart IoT Gateways</title>
+      <link>/publication/santamaria-radiation-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-radiation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmision line based approach for the synthesis of pattern reconfigurable antennas</title>
+      <link>/publication/lizzi-transmision-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-transmision-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of smart antennas in Wireless Sensor Networks</title>
+      <link>/publication/benedetti-integration-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-integration-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

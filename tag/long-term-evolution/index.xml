@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Long Term Evolution&#34; | Leonardo Lizzi</title>
+    <link>/tag/long-term-evolution/</link>
+      <atom:link href="/tag/long-term-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Long Term Evolution&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Long Term Evolution&#34;</title>
+      <link>/tag/long-term-evolution/</link>
+    </image>
+    
+    <item>
+      <title>From Optimal to Industrial Antenna: The Designer Dilemma for Compact NB-IoT Terminal</title>
+      <link>/publication/ferrero-optimal-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-optimal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of a Method for Increasing Isolation Between Closely Spaced Elements integrated in Multi-Standard Multi-Antenna Systems</title>
+      <link>/publication/sadaoui-study-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-study-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Multiband LTE MIMO Antenna System Integrated in its Real Environment</title>
+      <link>/publication/sadaoui-design-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-design-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO antenna performance assessment based on open source software defined radio</title>
+      <link>/publication/buey-mimo-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-mimo-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable Antenna for Future Spectrum Reallocations in 5G Communications</title>
+      <link>/publication/trinh-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Band Printed Fractal Monopole Antenna for LTE Applications</title>
+      <link>/publication/lizzi-dual-band-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dual-band-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

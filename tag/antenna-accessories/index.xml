@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Antenna accessories&#34; | Leonardo Lizzi</title>
+    <link>/tag/antenna-accessories/</link>
+      <atom:link href="/tag/antenna-accessories/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Antenna accessories&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Antenna accessories&#34;</title>
+      <link>/tag/antenna-accessories/</link>
+    </image>
+    
+    <item>
+      <title>DTC-Enabled Frequency-Tunable Inverted-F Antenna for IoT Applications</title>
+      <link>/publication/houret-dtc-enabled-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-dtc-enabled-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of miniature antennas for IoT applications</title>
+      <link>/publication/lizzi-design-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based time-domain antenna synthesis for enhanced UWB communication systems</title>
+      <link>/publication/lizzi-pso-based-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-based-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

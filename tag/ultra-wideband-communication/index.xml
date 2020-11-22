@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Ultra wideband communication&#34; | Leonardo Lizzi</title>
+    <link>/tag/ultra-wideband-communication/</link>
+      <atom:link href="/tag/ultra-wideband-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Ultra wideband communication&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Ultra wideband communication&#34;</title>
+      <link>/tag/ultra-wideband-communication/</link>
+    </image>
+    
+    <item>
+      <title>Time domain analysis for UWB antenna synthesis</title>
+      <link>/publication/lizzi-time-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based time-domain antenna synthesis for enhanced UWB communication systems</title>
+      <link>/publication/lizzi-pso-based-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-based-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation on UWB-MIMO Communication Systems Based on an Experimental Channel Characterization</title>
+      <link>/publication/migliore-investigation-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/migliore-investigation-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-based approach for the synthesis of antennas for UWB communication systems</title>
+      <link>/publication/benedetti-time-based-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-time-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental channel characterization of a MIMO-UWB communication system</title>
+      <link>/publication/lizzi-experimental-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-experimental-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spline-shaped ultra-wideband antenna operating in ecc released frequency spectrum</title>
+      <link>/publication/viani-spline-shaped-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-spline-shaped-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Staraj | Leonardo Lizzi</title>
+    <link>/author/robert-staraj/</link>
+      <atom:link href="/author/robert-staraj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Staraj</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Robert Staraj</title>
+      <link>/author/robert-staraj/</link>
+    </image>
+    
+    <item>
+      <title>An Optimization Driven Method for the Synthesis of Reconfigurable Parasitic Antenna Arrays</title>
+      <link>/publication/santamaria-optimization-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-optimization-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-Port Antenna with Matching Network for Dual-band IoT Terminal</title>
+      <link>/publication/santamaria-2-port-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-2-port-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Reconfigurable Antenna Robust to Folding in Wearable Applications</title>
+      <link>/publication/santamaria-flexible-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-flexible-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of a Method for Increasing Isolation Between Closely Spaced Elements integrated in Multi-Standard Multi-Antenna Systems</title>
+      <link>/publication/sadaoui-study-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-study-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation d&#39;une antenne fente reconfigurable en diagramme basée sur des diodes PIN de faible capacité</title>
+      <link>/publication/santamaria-implementation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-implementation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Multiband LTE MIMO Antenna System Integrated in its Real Environment</title>
+      <link>/publication/sadaoui-design-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sadaoui-design-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Pattern-Reconfigurable Slot Antenna for IoT Network Concentrators</title>
+      <link>/publication/trinh-pattern-reconfigurable-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne flexible utilisant une technologie additive et du métal liquide</title>
+      <link>/publication/cosker-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Method for 3D Miniature Antenna Fabrication Based on Liquid Metal and 3D Printer</title>
+      <link>/publication/cosker-new-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-new-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne reconfigurable pour application Car-to-Car</title>
+      <link>/publication/trinh-antenne-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-antenne-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4 x 4 MIMO Multiband Antenna System for Mobile Handsets</title>
+      <link>/publication/trinh-4-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-4-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne multi-bandes multi-modes pour applications sur véhicules</title>
+      <link>/publication/lizzi-antenne-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tran Quang Khai Nguyen | Leonardo Lizzi</title>
+    <link>/author/tran-quang-khai-nguyen/</link>
+      <atom:link href="/author/tran-quang-khai-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tran Quang Khai Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tran Quang Khai Nguyen</title>
+      <link>/author/tran-quang-khai-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Measurement of Finger Effects on Coverage Efficiency for User Equipment Mm-Wave Antenna</title>
+      <link>/publication/nguyen-measurement-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-measurement-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Optimisation antenne et circuit d&#39;adaptation pour terminaux mobiles de nouvelle génération</title>
+      <link>/publication/ferrero-co-optimisation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-co-optimisation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based Combined Antenna and Matching Network Optimization for Mobile Terminals</title>
+      <link>/publication/nguyen-pso-based-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-pso-based-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling Element Strategy for Future Borderless Smartphone</title>
+      <link>/publication/ferrero-coupling-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-coupling-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

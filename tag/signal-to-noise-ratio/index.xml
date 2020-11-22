@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Signal to noise ratio&#34; | Leonardo Lizzi</title>
+    <link>/tag/signal-to-noise-ratio/</link>
+      <atom:link href="/tag/signal-to-noise-ratio/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Signal to noise ratio&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Signal to noise ratio&#34;</title>
+      <link>/tag/signal-to-noise-ratio/</link>
+    </image>
+    
+    <item>
+      <title>Validation of an open source software defined radio test bed</title>
+      <link>/publication/buey-validation-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-validation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO antenna performance assessment based on open source software defined radio</title>
+      <link>/publication/buey-mimo-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/buey-mimo-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the exploitation of the iterative multi-scaling scheme for the electromagnetic non-destructive evaluation with the Inexact-Newton method</title>
+      <link>/publication/lizzi-exploitation-2010/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental channel characterization of a MIMO-UWB communication system</title>
+      <link>/publication/lizzi-experimental-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-experimental-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of smart antennas in Wireless Sensor Networks</title>
+      <link>/publication/benedetti-integration-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-integration-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

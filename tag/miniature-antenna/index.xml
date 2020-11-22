@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;miniature antenna&#34; | Leonardo Lizzi</title>
+    <link>/tag/miniature-antenna/</link>
+      <atom:link href="/tag/miniature-antenna/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;miniature antenna&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;miniature antenna&#34;</title>
+      <link>/tag/miniature-antenna/</link>
+    </image>
+    
+    <item>
+      <title>Dual-Matching for Single Resonance Miniaturized Antenna for IoT applications</title>
+      <link>/publication/khai-nguyen-dual-matching-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/khai-nguyen-dual-matching-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Methods to Determine Bounds on the $Q$ -Factor for a Given Directivity</title>
+      <link>/publication/jonsson-methods-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jonsson-methods-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of miniature antenna for sub-GHz on-body applications</title>
+      <link>/publication/berrada-characterization-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-characterization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D compact antenna using liquid metal and additive technologies</title>
+      <link>/publication/cosker-3-d-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna Q bounds for given directivity: a case study of a directive parasitic element antenna</title>
+      <link>/publication/jonsson-antenna-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jonsson-antenna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact integrated IoT antenna robust to the effects of the environment</title>
+      <link>/publication/houret-compact-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-compact-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of a Dielectric Resonator Antenna to Reduce Hand Effect in a Miniature IoT Device</title>
+      <link>/publication/allabouche-use-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-use-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

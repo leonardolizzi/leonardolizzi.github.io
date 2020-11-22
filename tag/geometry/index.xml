@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;geometry&#34; | Leonardo Lizzi</title>
+    <link>/tag/geometry/</link>
+      <atom:link href="/tag/geometry/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;geometry&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;geometry&#34;</title>
+      <link>/tag/geometry/</link>
+    </image>
+    
+    <item>
+      <title>Flexible Reconfigurable Antenna Robust to Folding in Wearable Applications</title>
+      <link>/publication/santamaria-flexible-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-flexible-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling Element Strategy for Future Borderless Smartphone</title>
+      <link>/publication/ferrero-coupling-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-coupling-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Ground Plane Reduction in Antennas for Compact Terminals</title>
+      <link>/publication/lizzi-impact-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-impact-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple antenna structure enabling the simultaneous excitation of two different polarisation and radiation modes</title>
+      <link>/publication/lizzi-simple-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-simple-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of miniature pattern-reconfigurable antennas for smart wireless sensor nodes</title>
+      <link>/publication/lizzi-synthesis-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of spline-based geometries for the time-domain synthesis of UWB antennas</title>
+      <link>/publication/lizzi-exploitation-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of perturbed fractals for antenna synthesis</title>
+      <link>/publication/lizzi-analysis-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-analysis-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Monopolar Quad-Band Antenna Based on a Hilbert Self-Affine Prefractal Geometry</title>
+      <link>/publication/azaro-monopolar-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/azaro-monopolar-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An innovative spline-based shaping approach for ultra-wideband antenna synthesis</title>
+      <link>/publication/lizzi-innovative-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-innovative-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a Spline-Shaped UWB Antenna by PSO</title>
+      <link>/publication/lizzi-optimization-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-optimization-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giacomo Oliveri | Leonardo Lizzi</title>
+    <link>/author/giacomo-oliveri/</link>
+      <atom:link href="/author/giacomo-oliveri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giacomo Oliveri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Giacomo Oliveri</title>
+      <link>/author/giacomo-oliveri/</link>
+    </image>
+    
+    <item>
+      <title>Polarization-Agile Ads-Interleaved Planar Arrays</title>
+      <link>/publication/oliveri-polarization-agile-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/oliveri-polarization-agile-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Time-Domain Approach to the Synthesis of UWB Antenna Systems</title>
+      <link>/publication/lizzi-time-domain-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-time-domain-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna synthesis techniques @ ELEDIA Research Group</title>
+      <link>/publication/caramanica-antenna-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/caramanica-antenna-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of WSNs for homeland/environmental security and surveillance</title>
+      <link>/publication/viani-exploitation-2010-1/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-exploitation-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodologies for the solution of inverse scattering problems @ ELEDIA Research Group</title>
+      <link>/publication/barriere-methodologies-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/barriere-methodologies-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planar Monopole UWB Antenna with Unii1/Unii2 WLAN-Band Notched Characteristics</title>
+      <link>/publication/lizzi-planar-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-planar-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

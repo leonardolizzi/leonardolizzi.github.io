@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;natconf&#34; | Leonardo Lizzi</title>
+    <link>/tag/natconf/</link>
+      <atom:link href="/tag/natconf/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;natconf&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;natconf&#34;</title>
+      <link>/tag/natconf/</link>
+    </image>
+    
+    <item>
+      <title>Co-Optimisation antenne et circuit d&#39;adaptation pour terminaux mobiles de nouvelle génération</title>
+      <link>/publication/ferrero-co-optimisation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-co-optimisation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement d’une antenne miniature multiband reconfigurable pour des applications de localisation</title>
+      <link>/publication/khalifeh-developpement-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/khalifeh-developpement-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implémentation d&#39;une antenne fente reconfigurable en diagramme basée sur des diodes PIN de faible capacité</title>
+      <link>/publication/santamaria-implementation-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-implementation-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne flexible utilisant une technologie additive et du métal liquide</title>
+      <link>/publication/cosker-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne intégrée reconfigurable robuste à l’influence de l’environnement</title>
+      <link>/publication/houret-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne Miniature Multi-bandes pour Terminaux IoT Compacts</title>
+      <link>/publication/lizzi-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne à Résonateur Diélectrique pour réduire l’effet du corps humain dans un dispositif IoT miniature</title>
+      <link>/publication/allabouche-antenne-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-antenne-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne reconfigurable pour application Car-to-Car</title>
+      <link>/publication/trinh-antenne-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-antenne-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenne multi-bandes multi-modes pour applications sur véhicules</title>
+      <link>/publication/lizzi-antenne-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-antenne-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna synthesis techniques @ ELEDIA Research Group</title>
+      <link>/publication/caramanica-antenna-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/caramanica-antenna-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of WSNs for homeland/environmental security and surveillance</title>
+      <link>/publication/viani-exploitation-2010-1/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-exploitation-2010-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodologies for the solution of inverse scattering problems @ ELEDIA Research Group</title>
+      <link>/publication/barriere-methodologies-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/barriere-methodologies-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metodologie e algoritmi per la risoluzione di problemi di scattering elettromagnetico inverso presso il gruppo ELEDIA a Trento</title>
+      <link>/publication/donelli-metodologie-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-metodologie-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and antenna optimization at ELEDIA in Trento</title>
+      <link>/publication/donelli-synthesis-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-synthesis-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

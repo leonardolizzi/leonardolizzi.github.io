@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trong Nhan Le | Leonardo Lizzi</title>
+    <link>/author/trong-nhan-le/</link>
+      <atom:link href="/author/trong-nhan-le/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trong Nhan Le</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Trong Nhan Le</title>
+      <link>/author/trong-nhan-le/</link>
+    </image>
+    
+    <item>
+      <title>A Pattern-Reconfigurable Slot Antenna for IoT Network Concentrators</title>
+      <link>/publication/trinh-pattern-reconfigurable-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-pattern-reconfigurable-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

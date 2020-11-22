@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Wireless communication&#34; | Leonardo Lizzi</title>
+    <link>/tag/wireless-communication/</link>
+      <atom:link href="/tag/wireless-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Wireless communication&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Wireless communication&#34;</title>
+      <link>/tag/wireless-communication/</link>
+    </image>
+    
+    <item>
+      <title>Flexible Reconfigurable Antenna Robust to Folding in Wearable Applications</title>
+      <link>/publication/santamaria-flexible-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-flexible-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficient reconfigurable antenna for ultra-low power IoT devices</title>
+      <link>/publication/houret-energy-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-energy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stratospheric platform for telecommunication missions</title>
+      <link>/publication/baurreau-stratospheric-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baurreau-stratospheric-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of miniature pattern-reconfigurable antennas for smart wireless sensor nodes</title>
+      <link>/publication/lizzi-synthesis-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and analysis of a monopole radiator for UWB Body Area Networks</title>
+      <link>/publication/lizzi-synthesis-2011-1/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printed UWB Antenna Operating Over Multiple Mobile Wireless Standards</title>
+      <link>/publication/lizzi-printed-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-printed-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of smart antennas in Wireless Sensor Networks</title>
+      <link>/publication/benedetti-integration-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-integration-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

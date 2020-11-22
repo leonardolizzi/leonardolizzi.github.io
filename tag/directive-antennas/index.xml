@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;directive antennas&#34; | Leonardo Lizzi</title>
+    <link>/tag/directive-antennas/</link>
+      <atom:link href="/tag/directive-antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;directive antennas&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;directive antennas&#34;</title>
+      <link>/tag/directive-antennas/</link>
+    </image>
+    
+    <item>
+      <title>On Methods to Determine Bounds on the $Q$ -Factor for a Given Directivity</title>
+      <link>/publication/jonsson-methods-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jonsson-methods-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Energy Efficiency of Mobile WSN Using Reconfigurable Directional Antennas</title>
+      <link>/publication/le-improving-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-improving-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-directive parasitic element antenna for spatial filtering applications</title>
+      <link>/publication/ferrero-super-directive-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-super-directive-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmision line based approach for the synthesis of pattern reconfigurable antennas</title>
+      <link>/publication/lizzi-transmision-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-transmision-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of miniature pattern-reconfigurable antennas for smart wireless sensor nodes</title>
+      <link>/publication/lizzi-synthesis-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

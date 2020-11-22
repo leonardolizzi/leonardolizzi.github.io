@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Receiving antennas&#34; | Leonardo Lizzi</title>
+    <link>/tag/receiving-antennas/</link>
+      <atom:link href="/tag/receiving-antennas/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Receiving antennas&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Receiving antennas&#34;</title>
+      <link>/tag/receiving-antennas/</link>
+    </image>
+    
+    <item>
+      <title>ORION: Orientation estimation using commodity Wi-Fi</title>
+      <link>/publication/mahfoudi-orion-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mahfoudi-orion-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Energy Efficiency of Mobile WSN Using Reconfigurable Directional Antennas</title>
+      <link>/publication/le-improving-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-improving-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A wake-up receiver with ad-hoc antenna co-design for wearable applications</title>
+      <link>/publication/polonelli-wake-up-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/polonelli-wake-up-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSSI measurements to achieve mouse localization in a cage</title>
+      <link>/publication/perrissol-rssi-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perrissol-rssi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PSO-Driven Spline-Based Shaping Approach for Ultrawideband (UWB) Antenna Synthesis</title>
+      <link>/publication/lizzi-pso-driven-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-driven-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-based approach for the synthesis of antennas for UWB communication systems</title>
+      <link>/publication/benedetti-time-based-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-time-based-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

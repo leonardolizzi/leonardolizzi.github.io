@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katsuyuki Haneda | Leonardo Lizzi</title>
+    <link>/author/katsuyuki-haneda/</link>
+      <atom:link href="/author/katsuyuki-haneda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katsuyuki Haneda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Katsuyuki Haneda</title>
+      <link>/author/katsuyuki-haneda/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Evaluation of User&#39;s Finger Effects on a 5G Terminal Antenna Array at 26 GHz</title>
+      <link>/publication/nguyen-experimental-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-experimental-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

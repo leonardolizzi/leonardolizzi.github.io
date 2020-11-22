@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;splines (mathematics)&#34; | Leonardo Lizzi</title>
+    <link>/tag/splines-mathematics/</link>
+      <atom:link href="/tag/splines-mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;splines (mathematics)&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;splines (mathematics)&#34;</title>
+      <link>/tag/splines-mathematics/</link>
+    </image>
+    
+    <item>
+      <title>Exploitation of spline-based geometries for the time-domain synthesis of UWB antennas</title>
+      <link>/publication/lizzi-exploitation-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-exploitation-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of notched band UWB antennas with a hybrid PSO-spline technique</title>
+      <link>/publication/lizzi-synthesis-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time domain analysis for UWB antenna synthesis</title>
+      <link>/publication/lizzi-time-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PSO-Driven Spline-Based Shaping Approach for Ultrawideband (UWB) Antenna Synthesis</title>
+      <link>/publication/lizzi-pso-driven-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-driven-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An innovative spline-based shaping approach for ultra-wideband antenna synthesis</title>
+      <link>/publication/lizzi-innovative-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-innovative-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

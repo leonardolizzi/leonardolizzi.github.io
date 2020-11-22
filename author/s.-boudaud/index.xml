@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Boudaud | Leonardo Lizzi</title>
+    <link>/author/s.-boudaud/</link>
+      <atom:link href="/author/s.-boudaud/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Boudaud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Boudaud</title>
+      <link>/author/s.-boudaud/</link>
+    </image>
+    
+    <item>
+      <title>Experimental analysis of the human body effect on miniature LPWAN antennas</title>
+      <link>/publication/berrada-experimental-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-experimental-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of miniature antenna for sub-GHz on-body applications</title>
+      <link>/publication/berrada-characterization-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-characterization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy efficient reconfigurable antenna for ultra-low power IoT devices</title>
+      <link>/publication/houret-energy-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-energy-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact integrated IoT antenna robust to the effects of the environment</title>
+      <link>/publication/houret-compact-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/houret-compact-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of antennas enabling miniature and energy efficient wireless IoT devices for smart cities</title>
+      <link>/publication/lizzi-design-2016-1/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of miniature antennas for IoT applications</title>
+      <link>/publication/lizzi-design-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental sensitivity of miniature antennas for IoT devices</title>
+      <link>/publication/ferrero-environmental-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrero-environmental-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Miniature Position Tracker Using LoRa and GPS Technology</title>
+      <link>/publication/monin-enabling-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/monin-enabling-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Fererro | Leonardo Lizzi</title>
+    <link>/author/f.-fererro/</link>
+      <atom:link href="/author/f.-fererro/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Fererro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Fererro</title>
+      <link>/author/f.-fererro/</link>
+    </image>
+    
+    <item>
+      <title>Multiband rectangular dielectric resonator antenna for 5G applications</title>
+      <link>/publication/allabouche-multiband-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-multiband-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Different Reconfigurable Directional Antennas for Improving WSN Autonomy</title>
+      <link>/publication/le-comparison-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/le-comparison-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Berrada | Leonardo Lizzi</title>
+    <link>/author/h.-berrada/</link>
+      <atom:link href="/author/h.-berrada/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Berrada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Berrada</title>
+      <link>/author/h.-berrada/</link>
+    </image>
+    
+    <item>
+      <title>Experimental analysis of the human body effect on miniature LPWAN antennas</title>
+      <link>/publication/berrada-experimental-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-experimental-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of miniature antenna for sub-GHz on-body applications</title>
+      <link>/publication/berrada-characterization-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/berrada-characterization-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

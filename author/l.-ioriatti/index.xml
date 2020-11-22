@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Ioriatti | Leonardo Lizzi</title>
+    <link>/author/l.-ioriatti/</link>
+      <atom:link href="/author/l.-ioriatti/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Ioriatti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Ioriatti</title>
+      <link>/author/l.-ioriatti/</link>
+    </image>
+    
+    <item>
+      <title>Real-time indoor localization and tracking of passive targets by means of wireless sensor networks</title>
+      <link>/publication/viani-real-time-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-real-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of smart antennas in Wireless Sensor Networks</title>
+      <link>/publication/benedetti-integration-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-integration-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A RSSI-based Method for Real-Time Object Localization in Wireless Sensor Networks</title>
+      <link>/publication/viani-rssi-based-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-rssi-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of Smart Antennas in Wireless Sensor Networks</title>
+      <link>/publication/donelli-exploitation-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/donelli-exploitation-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

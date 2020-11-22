@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. Ribero | Leonardo Lizzi</title>
+    <link>/author/j.-m.-ribero/</link>
+      <atom:link href="/author/j.-m.-ribero/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. Ribero</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J. M. Ribero</title>
+      <link>/author/j.-m.-ribero/</link>
+    </image>
+    
+    <item>
+      <title>3D compact antenna using liquid metal and additive technologies</title>
+      <link>/publication/cosker-3-d-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of a Dielectric Resonator Antenna to Reduce Hand Effect in a Miniature IoT Device</title>
+      <link>/publication/allabouche-use-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-use-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realization of 3-D Flexible Antennas Using Liquid Metal and Additive Printing Technologies</title>
+      <link>/publication/cosker-realization-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-realization-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D flexible antenna realization process using liquid metal and additive technology</title>
+      <link>/publication/cosker-3-d-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cosker-3-d-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of Different Excitation Techniques for Cylindrical Dielectric Resonator Antenna</title>
+      <link>/publication/allabouche-comparative-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/allabouche-comparative-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential pattern-reconfigurable antenna prototype for efficient wireless sensor networks</title>
+      <link>/publication/lizzi-differential-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-differential-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconfigurable Antenna for Future Spectrum Reallocations in 5G Communications</title>
+      <link>/publication/trinh-reconfigurable-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/trinh-reconfigurable-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stratospheric platform for telecommunication missions</title>
+      <link>/publication/baurreau-stratospheric-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baurreau-stratospheric-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transmision line based approach for the synthesis of pattern reconfigurable antennas</title>
+      <link>/publication/lizzi-transmision-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-transmision-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of miniature pattern-reconfigurable antennas for smart wireless sensor nodes</title>
+      <link>/publication/lizzi-synthesis-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-profile multimode antenna for vehicular applications</title>
+      <link>/publication/lizzi-low-profile-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-low-profile-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of light and low-profile antennas for vehicular applications</title>
+      <link>/publication/lizzi-design-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact low-profile omnidirectional surface wave antenna for UMTS applications</title>
+      <link>/publication/lizzi-compact-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-compact-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light and Low-Profile GSM Omnidirectional Antenna</title>
+      <link>/publication/lizzi-light-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-light-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

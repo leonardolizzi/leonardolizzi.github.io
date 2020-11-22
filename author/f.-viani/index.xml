@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Viani | Leonardo Lizzi</title>
+    <link>/author/f.-viani/</link>
+      <atom:link href="/author/f.-viani/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Viani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Viani</title>
+      <link>/author/f.-viani/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic classification for electromagnetic demining — Issues and advances towards real implementations</title>
+      <link>/publication/viani-probabilistic-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-probabilistic-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and analysis of a monopole radiator for UWB Body Area Networks</title>
+      <link>/publication/lizzi-synthesis-2011-1/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-synthesis-2011-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based early alert system for preventing wildlife-vehicle collisions in Alps regions</title>
+      <link>/publication/viani-wsn-based-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN-based solutions for security and surveillance</title>
+      <link>/publication/viani-wsn-based-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-wsn-based-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploitation of Parasitic Smart Antennas in Wireless Sensor Networks</title>
+      <link>/publication/viani-exploitation-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-exploitation-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional real-time localization of subsurface objects -  From theory to experimental validation</title>
+      <link>/publication/lizzi-three-dimensional-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-three-dimensional-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSO-based time-domain antenna synthesis for enhanced UWB communication systems</title>
+      <link>/publication/lizzi-pso-based-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-based-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time indoor localization and tracking of passive targets by means of wireless sensor networks</title>
+      <link>/publication/viani-real-time-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-real-time-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DVBH/GSM/UMTS Planar Antenna for Multimode Wireless Devices</title>
+      <link>/publication/lizzi-dvbhgsmumts-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dvbhgsmumts-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Monopolar Quad-Band Antenna Based on a Hilbert Self-Affine Prefractal Geometry</title>
+      <link>/publication/azaro-monopolar-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/azaro-monopolar-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-Band Spline-Shaped PCB Antenna for Wi-Fi Applications</title>
+      <link>/publication/lizzi-dual-band-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-dual-band-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PSO-Driven Spline-Based Shaping Approach for Ultrawideband (UWB) Antenna Synthesis</title>
+      <link>/publication/lizzi-pso-driven-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-pso-driven-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-based approach for the synthesis of antennas for UWB communication systems</title>
+      <link>/publication/benedetti-time-based-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-time-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a miniaturized planar antenna for FCC-UWB communication systems</title>
+      <link>/publication/lizzi-design-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-design-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of smart antennas in Wireless Sensor Networks</title>
+      <link>/publication/benedetti-integration-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-integration-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking through RSSI measurements in wireless sensor networks</title>
+      <link>/publication/viani-object-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-object-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Miniaturized UWB Antenna for Wireless Dongle Devices</title>
+      <link>/publication/viani-miniaturized-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-miniaturized-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A RSSI-based Method for Real-Time Object Localization in Wireless Sensor Networks</title>
+      <link>/publication/viani-rssi-based-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-rssi-based-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spline-shaped ultra-wideband antenna operating in ecc released frequency spectrum</title>
+      <link>/publication/viani-spline-shaped-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/viani-spline-shaped-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An innovative spline-based shaping approach for ultra-wideband antenna synthesis</title>
+      <link>/publication/lizzi-innovative-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-innovative-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of a Spline-Shaped UWB Antenna by PSO</title>
+      <link>/publication/lizzi-optimization-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lizzi-optimization-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

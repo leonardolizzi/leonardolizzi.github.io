@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanis Boussad | Leonardo Lizzi</title>
+    <link>/author/yanis-boussad/</link>
+      <atom:link href="/author/yanis-boussad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanis Boussad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yanis Boussad</title>
+      <link>/author/yanis-boussad/</link>
+    </image>
+    
+    <item>
+      <title>Open-Source 4G Experimental Setup</title>
+      <link>/publication/boussad-open-source-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-open-source-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

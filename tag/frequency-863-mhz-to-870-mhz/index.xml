@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;frequency 863 MHz to 870 MHz&#34; | Leonardo Lizzi</title>
+    <link>/tag/frequency-863-mhz-to-870-mhz/</link>
+      <atom:link href="/tag/frequency-863-mhz-to-870-mhz/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;frequency 863 MHz to 870 MHz&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;frequency 863 MHz to 870 MHz&#34;</title>
+      <link>/tag/frequency-863-mhz-to-870-mhz/</link>
+    </image>
+    
+    <item>
+      <title>RSSI measurements to achieve mouse localization in a cage</title>
+      <link>/publication/perrissol-rssi-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/perrissol-rssi-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

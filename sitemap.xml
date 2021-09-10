@@ -3,12 +3,492 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/i-win/</loc>
-    <lastmod>2020-11-23T14:51:11+01:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/santamaria-compact-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bacha-compact-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabien-ferrero/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leonardo-lizzi/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luca-santamaria/</loc>
+    <lastmod>2021-09-10T17:51:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-el-bacha/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-staraj/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t-q-khai-nguyen/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/amina-benouakta/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cheggour-compact-2021/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wang-design-2021/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/f-ferrero/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/f-positano/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l-lizzi/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l-santamaria/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-grande/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/benouakta-measurements-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/positano-pattern-2021/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/selina-cheggour/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mbock-slot-based-2021/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/therese-mbock/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yibo-wang/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ahmed-kishk/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/b.-l.-g.-jonsson/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/el-bacha-influence-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marco-grande/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mastrosimini-miniaturized-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mohammad-s.-sharawi/</loc>
+    <lastmod>2021-09-10T17:51:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/haydhah-multi-function-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nguyen-limitation-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/saeed-haydhah/</loc>
+    <lastmod>2021-09-10T17:51:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tran-quang-khai-nguyen/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/verdiana-mastrosimini/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xiupu-zhang/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/accuracy/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antenna-measurements/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antenna-radiation-patterns/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antennas/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bluetooth/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/calibration/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/compact-antennas/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/directive-antennas/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/electromagnetic-waveguides/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gain/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hardware/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/human-body-phantom/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/integrated-circuit-modeling/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/internet-of-things-iot/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/internet-of-things/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/iot/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/long-term-evolution/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/long-term-evolution-lte/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/measurements/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optical-waveguides/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pattern-agile-antennas/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pattern-reconfigurable-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pattern-reconfigurable-antennas/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/periodic-structures/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pin-photodiodes/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pins/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/planar/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/radio-frequency/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/received-signal-strength-indicator-rssi/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reconfigurable-antennas/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sensors/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/slot-antennas/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/smart-phones/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/smartphone/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-defined-radio-sdr/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/substrates/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/surface-impedance/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/surface-waves/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/switches/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/uhf/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wave-guide-surface/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wire-patch-antennas/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-fidelity/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/haydhah-multifunctional-2021/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-legout/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/azzedine-zerguine/</loc>
+    <lastmod>2021-09-10T17:51:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/santamaria-electronically-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/boussad-evaluating-2021/</loc>
+    <lastmod>2021-09-10T17:38:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/f.-ferrero/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l.-lizzi/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-n.-mahfoudi/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maria-elbacha/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/saeed-a.-haydhah/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/w.-dabbous/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/elbacha-wearable-2021/</loc>
+    <lastmod>2021-09-10T17:38:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/y.-boussad/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/i-win/</loc>
     <lastmod>2020-11-23T14:51:11+01:00</lastmod>
   </url>
   
@@ -18,448 +498,408 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-11-22T16:06:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alain-pegatoquet/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/santamaria-optimization-2020/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/arnaud-legout/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-11-22T16:18:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/roqui-estimation-2020/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/fabien-ferrero/</loc>
-    <lastmod>2020-11-22T16:18:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/julian-roqui/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/leonardo-lizzi/</loc>
-    <lastmod>2020-11-22T16:18:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/luca-santamaria/</loc>
-    <lastmod>2020-11-21T16:20:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lyes-khacef/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/nguyen-measurement-2020/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mohamed-naoufal-mahfoudi/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/boussad-open-source-2020/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-11-22T16:18:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-11-22T16:18:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/robert-staraj/</loc>
-    <lastmod>2020-11-22T16:18:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tran-quang-khai-nguyen/</loc>
-    <lastmod>2020-11-21T16:20:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/walid-dabbous/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yanis-boussad/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/antenna-limit/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/compact-nb-iot-terminal/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/compact-terminal/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/industrial-antenna/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/internet-of-things/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/long-term-evolution/</loc>
-    <lastmod>2020-11-22T15:54:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/lte-band/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/microwave-antenna-arrays/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/mimo-communication/</loc>
-    <lastmod>2020-11-22T16:05:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/mobile-antennas/</loc>
-    <lastmod>2020-11-22T15:56:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/nb-iot-integrated-antenna/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/nb-iot/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/q-factor/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/small-antennas/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/uhf-antennas/</loc>
-    <lastmod>2020-11-22T15:57:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/haydhah-compact-2020/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/azzedine-zerguine/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/b.-l.-g.-jonsson/</loc>
-    <lastmod>2020-11-21T16:20:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/santamaria-compact-2020/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/f.-ferrero/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ferrero-optimal-2020/</loc>
-    <lastmod>2020-11-21T16:20:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l.-lizzi/</loc>
-    <lastmod>2020-11-22T16:16:41+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mohammad-s.-sharawi/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/r.-staraj/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/saeed-haydhah/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-11-22T16:16:41+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/antenna-accessories/</loc>
-    <lastmod>2020-11-22T15:56:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/antenna-measurements/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/antenna-radiation-patterns/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/antenna-resonant-frequency/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/capacitance/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/capacitors/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/digital-control/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/digitally-tunable-capacitor-dtc/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/digitally-tunable-capacitor/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dtc-enabled-frequency-tunable-inverted-f-antenna/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/frequency-600.0-mhz-to-960.0-mhz/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/frequency-detuning-compensation/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/frequency-tunable-antenna/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/integrated-antenna/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/integrated-frequency-tunable-inverted-f-antenna/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/internet-of-things-iot/</loc>
-    <lastmod>2020-11-21T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/inverted-f-antenna-ifa/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/iot-applications/</loc>
-    <lastmod>2020-11-22T16:03:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/low-power-electronics/</loc>
-    <lastmod>2020-11-21T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/planar-inverted-f-antennas/</loc>
-    <lastmod>2020-11-22T16:03:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reconfigurable-antenna/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reconfigurable-circuit/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/resonant-frequency/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/telecommunication-control/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-11-22T16:18:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/nguyen-antenna-2020/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/christophe-danchesi/</loc>
-    <lastmod>2020-11-22T15:49:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/houret-dtc-enabled-2020/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/stephane-boudaud/</loc>
-    <lastmod>2020-11-22T15:49:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/t.-q.-khai-nguyen/</loc>
-    <lastmod>2020-11-21T16:20:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/thomas-houret/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/5g-mobile-communication/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/5g/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/antenna-arrays/</loc>
-    <lastmod>2020-11-22T16:06:15+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fingers/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gain-measurement/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/impedance-matching/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/maximum-likelihood-estimation/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/meetings/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/open-source-software/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optimization/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/power-measurement/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reliability/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/solid-modeling/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/three-dimensional-displays/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/uncertainty/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wireless-communication/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-pegatoquet/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/santamaria-optimization-2020/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/roqui-estimation-2020/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-roqui/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l.-khacef/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l.-santamaria/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nguyen-measurement-2020/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/boussad-open-source-2020/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-staraj/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t.-q.-khai-nguyen/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antenna-limit/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/compact-nb-iot-terminal/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/compact-terminal/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/industrial-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lte-band/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/microwave-antenna-arrays/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mimo-communication/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mobile-antennas/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nb-iot-integrated-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nb-iot/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/q-factor/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/small-antennas/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/uhf-antennas/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/haydhah-compact-2020/</loc>
+    <lastmod>2021-09-10T17:51:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/santamaria-compact-2020/</loc>
+    <lastmod>2021-09-10T17:51:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ferrero-optimal-2020/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antenna-accessories/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antenna-resonant-frequency/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/capacitance/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/capacitors/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/digital-control/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/digitally-tunable-capacitor-dtc/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/digitally-tunable-capacitor/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dtc-enabled-frequency-tunable-inverted-f-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/frequency-600.0-mhz-to-960.0-mhz/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/frequency-detuning-compensation/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/frequency-tunable-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/integrated-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/integrated-frequency-tunable-inverted-f-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/inverted-f-antenna-ifa/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/iot-applications/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/low-power-electronics/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/planar-inverted-f-antennas/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reconfigurable-antenna/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reconfigurable-circuit/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/resonant-frequency/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/telecommunication-control/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nguyen-antenna-2020/</loc>
+    <lastmod>2021-09-10T17:51:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christophe-danchesi/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/houret-dtc-enabled-2020/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stephane-boudaud/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-houret/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/5g/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/array-antenna/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/array-signal-processing/</loc>
-    <lastmod>2020-11-21T16:20:16+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/casing-effects/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cost-function/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/espar/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/finger-effects/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/gain/</loc>
-    <lastmod>2020-11-22T16:05:55+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/pcb/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pin-diodes/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/nguyen-experimental-2020/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/katsuyuki-haneda/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/md-suzan-miah/</loc>
-    <lastmod>2020-11-21T16:20:13+01:00</lastmod>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/santamaria-slot-based-2020/</loc>
+    <lastmod>2021-09-10T17:51:19+02:00</lastmod>
   </url>
   
   <url>
@@ -495,11 +935,6 @@
   <url>
     <loc>/tag/geometry/</loc>
     <lastmod>2020-11-22T16:06:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/impedance-matching/</loc>
-    <lastmod>2020-11-22T16:05:55+01:00</lastmod>
   </url>
   
   <url>
@@ -578,11 +1013,6 @@
   </url>
   
   <url>
-    <loc>/tag/slot-antennas/</loc>
-    <lastmod>2020-11-22T15:55:30+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/wearable-antennas/</loc>
     <lastmod>2020-11-22T16:03:59+01:00</lastmod>
   </url>
@@ -590,11 +1020,6 @@
   <url>
     <loc>/tag/wearable-applications/</loc>
     <lastmod>2020-11-21T16:20:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/wireless-communication/</loc>
-    <lastmod>2020-11-22T16:05:55+01:00</lastmod>
   </url>
   
   <url>
@@ -803,11 +1228,6 @@
   </url>
   
   <url>
-    <loc>/tag/switches/</loc>
-    <lastmod>2020-11-22T16:05:55+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/thick-plastic-radome/</loc>
     <lastmod>2020-11-21T16:20:14+01:00</lastmod>
   </url>
@@ -898,11 +1318,6 @@
   </url>
   
   <url>
-    <loc>/tag/iot/</loc>
-    <lastmod>2020-11-22T15:49:44+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/lora-standard/</loc>
     <lastmod>2020-11-21T16:20:14+01:00</lastmod>
   </url>
@@ -978,18 +1393,8 @@
   </url>
   
   <url>
-    <loc>/tag/pin-diodes/</loc>
-    <lastmod>2020-11-21T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/prototypes/</loc>
     <lastmod>2020-11-22T16:06:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reconfigurable-antennas/</loc>
-    <lastmod>2020-11-21T16:20:15+01:00</lastmod>
   </url>
   
   <url>
@@ -1068,11 +1473,6 @@
   </url>
   
   <url>
-    <loc>/tag/directive-antennas/</loc>
-    <lastmod>2020-11-22T16:04:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/electromagnetic-simulations/</loc>
     <lastmod>2020-11-21T16:20:16+01:00</lastmod>
   </url>
@@ -1095,11 +1495,6 @@
   <url>
     <loc>/tag/nonconvex-constraints/</loc>
     <lastmod>2020-11-21T16:20:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/optimization/</loc>
-    <lastmod>2020-11-22T15:49:43+01:00</lastmod>
   </url>
   
   <url>
@@ -1228,11 +1623,6 @@
   </url>
   
   <url>
-    <loc>/tag/antennas/</loc>
-    <lastmod>2020-11-22T16:05:55+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/battery-charge-measurement/</loc>
     <lastmod>2020-11-21T16:20:15+01:00</lastmod>
   </url>
@@ -1244,11 +1634,6 @@
   
   <url>
     <loc>/tag/belt/</loc>
-    <lastmod>2020-11-21T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/bluetooth/</loc>
     <lastmod>2020-11-21T16:20:15+01:00</lastmod>
   </url>
   
@@ -1528,11 +1913,6 @@
   </url>
   
   <url>
-    <loc>/tag/three-dimensional-displays/</loc>
-    <lastmod>2020-11-22T15:49:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/ultra-low-power-iot-devices/</loc>
     <lastmod>2020-11-21T16:20:15+01:00</lastmod>
   </url>
@@ -1653,11 +2033,6 @@
   </url>
   
   <url>
-    <loc>/tag/hardware/</loc>
-    <lastmod>2020-11-21T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/long-range-radio-technology/</loc>
     <lastmod>2020-11-21T16:20:15+01:00</lastmod>
   </url>
@@ -1715,11 +2090,6 @@
   <url>
     <loc>/tag/security/</loc>
     <lastmod>2020-11-22T15:56:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sensors/</loc>
-    <lastmod>2020-11-22T15:54:42+01:00</lastmod>
   </url>
   
   <url>
@@ -1838,22 +2208,12 @@
   </url>
   
   <url>
-    <loc>/tag/radio-frequency/</loc>
-    <lastmod>2020-11-21T16:20:16+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/receiving-antennas/</loc>
     <lastmod>2020-11-22T16:05:55+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/wi-fi/</loc>
-    <lastmod>2020-11-21T16:20:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/wireless-fidelity/</loc>
     <lastmod>2020-11-21T16:20:16+01:00</lastmod>
   </url>
   
@@ -1883,11 +2243,6 @@
   </url>
   
   <url>
-    <loc>/author/m.-n.-mahfoudi/</loc>
-    <lastmod>2020-11-21T16:20:16+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/mathieu-cosker/</loc>
     <lastmod>2020-11-21T16:20:11+01:00</lastmod>
   </url>
@@ -1909,11 +2264,6 @@
   
   <url>
     <loc>/author/t.-turletti/</loc>
-    <lastmod>2020-11-21T16:20:16+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/w.-dabbous/</loc>
     <lastmod>2020-11-21T16:20:16+01:00</lastmod>
   </url>
   
@@ -2273,11 +2623,6 @@
   </url>
   
   <url>
-    <loc>/tag/uhf/</loc>
-    <lastmod>2020-11-21T16:20:15+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/wearable-antenna/</loc>
     <lastmod>2020-11-22T15:49:43+01:00</lastmod>
   </url>
@@ -2288,18 +2633,8 @@
   </url>
   
   <url>
-    <loc>/author/a.-pegatoquet/</loc>
-    <lastmod>2020-11-22T15:54:04+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/le-comparison-2016/</loc>
     <lastmod>2020-11-22T15:49:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l-lizzi/</loc>
-    <lastmod>2020-11-22T16:06:15+01:00</lastmod>
   </url>
   
   <url>
@@ -3823,16 +4158,6 @@
   </url>
   
   <url>
-    <loc>/tag/surface-impedance/</loc>
-    <lastmod>2020-11-22T15:54:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/surface-waves/</loc>
-    <lastmod>2020-11-22T15:54:42+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/tetra/</loc>
     <lastmod>2020-11-22T15:54:41+01:00</lastmod>
   </url>
@@ -3843,11 +4168,6 @@
   </url>
   
   <url>
-    <loc>/tag/wire-patch-antennas/</loc>
-    <lastmod>2020-11-22T15:54:41+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/lizzi-compact-2012/</loc>
     <lastmod>2020-11-22T15:54:42+01:00</lastmod>
   </url>
@@ -3855,11 +4175,6 @@
   <url>
     <loc>/publication/lizzi-low-profile-2012/</loc>
     <lastmod>2020-11-22T15:54:41+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/accuracy/</loc>
-    <lastmod>2020-11-22T15:54:42+01:00</lastmod>
   </url>
   
   <url>

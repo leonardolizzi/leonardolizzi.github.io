@@ -5,12 +5,28 @@
     <link>/author/mohammad-s.-sharawi/</link>
       <atom:link href="/author/mohammad-s.-sharawi/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad S. Sharawi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>Mohammad S. Sharawi</title>
       <link>/author/mohammad-s.-sharawi/</link>
     </image>
+    
+    <item>
+      <title>Multi-Function Pattern Reconfigurable Antenna for 5G Small Cell Base Stations</title>
+      <link>/publication/haydhah-multi-function-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-multi-function-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multifunctional Compact Pattern Reconfigurable Antenna With Four Radiation Patterns for Sub-GHz IoT Applications</title>
+      <link>/publication/haydhah-multifunctional-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-multifunctional-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Compact Pattern Reconfigurable Antenna for UHF Internet of Things Applications</title>

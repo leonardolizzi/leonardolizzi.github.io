@@ -5,12 +5,28 @@
     <link>/tag/hardware/</link>
       <atom:link href="/tag/hardware/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Hardware&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;Hardware&#34;</title>
       <link>/tag/hardware/</link>
     </image>
+    
+    <item>
+      <title>Evaluating Smartphone Accuracy for RSSI Measurements</title>
+      <link>/publication/boussad-evaluating-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-evaluating-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source 4G Experimental Setup</title>
+      <link>/publication/boussad-open-source-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-open-source-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Low-cost antenna technology for LPWAN IoT in rural applications</title>

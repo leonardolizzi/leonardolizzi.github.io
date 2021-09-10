@@ -5,12 +5,28 @@
     <link>/tag/slot-antennas/</link>
       <atom:link href="/tag/slot-antennas/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Slot antennas&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;Slot antennas&#34;</title>
       <link>/tag/slot-antennas/</link>
     </image>
+    
+    <item>
+      <title>A Multifunctional Compact Pattern Reconfigurable Antenna With Four Radiation Patterns for Sub-GHz IoT Applications</title>
+      <link>/publication/haydhah-multifunctional-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-multifunctional-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slot-based Pattern Reconfigurable ESPAR Antenna for IoT Applications</title>
+      <link>/publication/santamaria-slot-based-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-slot-based-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Flexible Reconfigurable Antenna Robust to Folding in Wearable Applications</title>

@@ -5,12 +5,28 @@
     <link>/tag/switches/</link>
       <atom:link href="/tag/switches/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Switches&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;Switches&#34;</title>
       <link>/tag/switches/</link>
     </image>
+    
+    <item>
+      <title>Electronically Pattern Reconfigurable Antenna for IoT Applications</title>
+      <link>/publication/santamaria-electronically-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-electronically-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slot-based Pattern Reconfigurable ESPAR Antenna for IoT Applications</title>
+      <link>/publication/santamaria-slot-based-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-slot-based-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Radiation Pattern Agile Antenna for Smart IoT Gateways</title>

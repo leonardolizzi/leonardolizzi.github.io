@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yibo Wang | Leonardo Lizzi</title>
+    <link>/author/yibo-wang/</link>
+      <atom:link href="/author/yibo-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yibo Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
+      <title>Yibo Wang</title>
+      <link>/author/yibo-wang/</link>
+    </image>
+    
+    <item>
+      <title>Design of a Multi-Antenna Portable IoT Terminal</title>
+      <link>/publication/wang-design-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-design-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria El Bacha | Leonardo Lizzi</title>
+    <link>/author/maria-el-bacha/</link>
+      <atom:link href="/author/maria-el-bacha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria El Bacha</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
+      <title>Maria El Bacha</title>
+      <link>/author/maria-el-bacha/</link>
+    </image>
+    
+    <item>
+      <title>Compact Waveguide Surface End-launcher Suitable for Wearable Body Area Network Terminals</title>
+      <link>/publication/bacha-compact-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bacha-compact-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of end-launch Position over a Textile Wave-guide Surface for BAN applications</title>
+      <link>/publication/el-bacha-influence-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/el-bacha-influence-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

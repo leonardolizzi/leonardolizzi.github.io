@@ -5,12 +5,20 @@
     <link>/author/b.-l.-g.-jonsson/</link>
       <atom:link href="/author/b.-l.-g.-jonsson/index.xml" rel="self" type="application/rss+xml" />
     <description>B. L. G. Jonsson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>B. L. G. Jonsson</title>
       <link>/author/b.-l.-g.-jonsson/</link>
     </image>
+    
+    <item>
+      <title>On Limitation of Impedance Bandwidth for Integrated Antennas in Mobile Terminals with Narrow Clearance</title>
+      <link>/publication/nguyen-limitation-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-limitation-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Optimal to Industrial Antenna: The Designer Dilemma for Compact NB-IoT Terminal</title>

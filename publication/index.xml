@@ -5,12 +5,132 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Compact Antenna Approaching the Lower Q-factor Theoretical Bound Suitable for IoT Applications</title>
+      <link>/publication/santamaria-compact-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-compact-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Waveguide Surface End-launcher Suitable for Wearable Body Area Network Terminals</title>
+      <link>/publication/bacha-compact-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bacha-compact-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Beam Steering Antenna based on Multiple Yagi-Uda Elements</title>
+      <link>/publication/cheggour-compact-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cheggour-compact-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Multi-Antenna Portable IoT Terminal</title>
+      <link>/publication/wang-design-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-design-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurements of antenna polarization effects on Ultra-Wideband monitoring and localization</title>
+      <link>/publication/benouakta-measurements-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/benouakta-measurements-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern Reconﬁgurable Parasitic Element Array Antenna for Air Quality Portable Sensor</title>
+      <link>/publication/positano-pattern-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/positano-pattern-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slot-based Pattern Reconﬁgurable Antenna for Adaptive and Energy-Efﬁcient IoT Devices</title>
+      <link>/publication/mbock-slot-based-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mbock-slot-based-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of end-launch Position over a Textile Wave-guide Surface for BAN applications</title>
+      <link>/publication/el-bacha-influence-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/el-bacha-influence-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miniaturized Omnidirectional Circularly Polarized Antenna for IoT Applications</title>
+      <link>/publication/mastrosimini-miniaturized-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mastrosimini-miniaturized-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Function Pattern Reconfigurable Antenna for 5G Small Cell Base Stations</title>
+      <link>/publication/haydhah-multi-function-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-multi-function-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Limitation of Impedance Bandwidth for Integrated Antennas in Mobile Terminals with Narrow Clearance</title>
+      <link>/publication/nguyen-limitation-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-limitation-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multifunctional Compact Pattern Reconfigurable Antenna With Four Radiation Patterns for Sub-GHz IoT Applications</title>
+      <link>/publication/haydhah-multifunctional-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-multifunctional-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronically Pattern Reconfigurable Antenna for IoT Applications</title>
+      <link>/publication/santamaria-electronically-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-electronically-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Smartphone Accuracy for RSSI Measurements</title>
+      <link>/publication/boussad-evaluating-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-evaluating-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Waveguide Surface for Low-Loss Body Area Network Communications</title>
+      <link>/publication/elbacha-wearable-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/elbacha-wearable-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Optimization Driven Method for the Synthesis of Reconfigurable Parasitic Antenna Arrays</title>
@@ -89,6 +209,14 @@
       <link>/publication/nguyen-experimental-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/nguyen-experimental-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slot-based Pattern Reconfigurable ESPAR Antenna for IoT Applications</title>
+      <link>/publication/santamaria-slot-based-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-slot-based-2020/</guid>
       <description></description>
     </item>
     

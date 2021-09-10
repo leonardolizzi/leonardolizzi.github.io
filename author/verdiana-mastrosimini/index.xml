@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verdiana Mastrosimini | Leonardo Lizzi</title>
+    <link>/author/verdiana-mastrosimini/</link>
+      <atom:link href="/author/verdiana-mastrosimini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Verdiana Mastrosimini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
+      <title>Verdiana Mastrosimini</title>
+      <link>/author/verdiana-mastrosimini/</link>
+    </image>
+    
+    <item>
+      <title>Miniaturized Omnidirectional Circularly Polarized Antenna for IoT Applications</title>
+      <link>/publication/mastrosimini-miniaturized-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mastrosimini-miniaturized-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

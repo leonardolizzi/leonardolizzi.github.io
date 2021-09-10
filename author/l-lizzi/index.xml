@@ -5,12 +5,20 @@
     <link>/author/l-lizzi/</link>
       <atom:link href="/author/l-lizzi/index.xml" rel="self" type="application/rss+xml" />
     <description>L Lizzi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>L Lizzi</title>
       <link>/author/l-lizzi/</link>
     </image>
+    
+    <item>
+      <title>Pattern Reconﬁgurable Parasitic Element Array Antenna for Air Quality Portable Sensor</title>
+      <link>/publication/positano-pattern-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/positano-pattern-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparison of Different Reconfigurable Directional Antennas for Improving WSN Autonomy</title>

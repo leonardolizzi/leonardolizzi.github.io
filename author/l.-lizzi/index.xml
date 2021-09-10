@@ -5,12 +5,52 @@
     <link>/author/l.-lizzi/</link>
       <atom:link href="/author/l.-lizzi/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Lizzi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>L. Lizzi</title>
       <link>/author/l.-lizzi/</link>
     </image>
+    
+    <item>
+      <title>Evaluating Smartphone Accuracy for RSSI Measurements</title>
+      <link>/publication/boussad-evaluating-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-evaluating-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Optimization Driven Method for the Synthesis of Reconfigurable Parasitic Antenna Arrays</title>
+      <link>/publication/santamaria-optimization-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-optimization-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Small Antenna Performance Using a Machine Learning Approach</title>
+      <link>/publication/roqui-estimation-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/roqui-estimation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurement of Finger Effects on Coverage Efficiency for User Equipment Mm-Wave Antenna</title>
+      <link>/publication/nguyen-measurement-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-measurement-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source 4G Experimental Setup</title>
+      <link>/publication/boussad-open-source-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/boussad-open-source-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compact 4-Element Radiation Pattern Agile Antenna for Spatial Filtering in IoT Networks</title>
@@ -33,6 +73,14 @@
       <link>/publication/nguyen-antenna-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publication/nguyen-antenna-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slot-based Pattern Reconfigurable ESPAR Antenna for IoT Applications</title>
+      <link>/publication/santamaria-slot-based-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-slot-based-2020/</guid>
       <description></description>
     </item>
     

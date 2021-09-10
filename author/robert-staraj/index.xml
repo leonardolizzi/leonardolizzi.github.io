@@ -5,7 +5,7 @@
     <link>/author/robert-staraj/</link>
       <atom:link href="/author/robert-staraj/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Staraj</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>Robert Staraj</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>An Optimization Driven Method for the Synthesis of Reconfigurable Parasitic Antenna Arrays</title>
-      <link>/publication/santamaria-optimization-2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/santamaria-optimization-2020/</guid>
+      <title>Compact Antenna Approaching the Lower Q-factor Theoretical Bound Suitable for IoT Applications</title>
+      <link>/publication/santamaria-compact-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-compact-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurements of antenna polarization effects on Ultra-Wideband monitoring and localization</title>
+      <link>/publication/benouakta-measurements-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/benouakta-measurements-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miniaturized Omnidirectional Circularly Polarized Antenna for IoT Applications</title>
+      <link>/publication/mastrosimini-miniaturized-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mastrosimini-miniaturized-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronically Pattern Reconfigurable Antenna for IoT Applications</title>
+      <link>/publication/santamaria-electronically-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/santamaria-electronically-2021/</guid>
       <description></description>
     </item>
     

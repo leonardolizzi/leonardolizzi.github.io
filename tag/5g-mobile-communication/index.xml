@@ -5,12 +5,20 @@
     <link>/tag/5g-mobile-communication/</link>
       <atom:link href="/tag/5g-mobile-communication/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;5G mobile communication&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;5G mobile communication&#34;</title>
       <link>/tag/5g-mobile-communication/</link>
     </image>
+    
+    <item>
+      <title>Estimation of Small Antenna Performance Using a Machine Learning Approach</title>
+      <link>/publication/roqui-estimation-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/roqui-estimation-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Experimental Evaluation of User&#39;s Finger Effects on a 5G Terminal Antenna Array at 26 GHz</title>

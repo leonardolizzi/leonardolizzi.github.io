@@ -5,12 +5,20 @@
     <link>/tag/uhf/</link>
       <atom:link href="/tag/uhf/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;UHF&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;UHF&#34;</title>
       <link>/tag/uhf/</link>
     </image>
+    
+    <item>
+      <title>A Multifunctional Compact Pattern Reconfigurable Antenna With Four Radiation Patterns for Sub-GHz IoT Applications</title>
+      <link>/publication/haydhah-multifunctional-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/haydhah-multifunctional-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Realization of 3-D Flexible Antennas Using Liquid Metal and Additive Printing Technologies</title>

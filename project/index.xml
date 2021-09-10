@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Leonardo Lizzi</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 14:51:11 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hubb5fbf6cfcc59943a4ec1ba439864915_289059_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>I-WIN</title>
+      <link>/project/i-win/</link>
+      <pubDate>Mon, 23 Nov 2020 14:51:11 +0100</pubDate>
+      <guid>/project/i-win/</guid>
+      <description>&lt;h1 id=&#34;intelligent-wireless-iot-networks-i-win&#34;&gt;&lt;strong&gt;I&lt;/strong&gt;ntelligent &lt;strong&gt;W&lt;/strong&gt;ireless &lt;strong&gt;I&lt;/strong&gt;oT &lt;strong&gt;N&lt;/strong&gt;etworks (I-WIN)&lt;/h1&gt;
+&lt;p&gt;The sustainable development of future smart environments is enabled, from the technological point of view, by the deployment of reliable Internet-of-Things (IoT) wireless infrastructures. Because of the unique characteristics of IoT, such as massive volumes of data and devices, stringent resource constraints and heterogeneous activity levels, future wireless IoT infrastructures must integrate smart self-organizing solutions to efficiently operate in the dynamic IoT environment.&lt;/p&gt;
+&lt;p&gt;The objective of this project is the real implementation of an intelligent wireless IoT network, which will be deployed on the &lt;strong&gt;SophiaTech campus&lt;/strong&gt; (Polytech Nice Sophia being the first “client” of the network). The proposed project is based on the collaboration among different partners participating to the Académie 1 of IDEX UCA Jedi. More specifically, the project relies on the complementary competences of &lt;strong&gt;LEAT&lt;/strong&gt; in the physical design and deployment of IoT networks and the realization of reconfigurable antennas, of &lt;strong&gt;INRIA&lt;/strong&gt;, in wireless network modelling and experimentation and in cross-layer optimization, and &lt;strong&gt;I3S&lt;/strong&gt;, in the deployment of an IoT software infrastructure.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
